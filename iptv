@@ -91,6 +91,30 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/904.stream/index.m3u8
 #EXTINF:-1 ,starjalsha
 http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Star S Hin 1 HD
+http://103.127.92.38:81/play/starsp1
+#EXTINF:-1 group-title="SPORTS",Star Spo 1 HD
+http://103.127.92.38:81/play/starsp1hd
+#EXTINF:-1 group-title="SPORTS",Star Spo 2 HD
+http://103.127.92.38:81/play/starsp2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/l7gSBMN.png",Star Sports 1
+http://208.86.19.13:81/710.stream/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Bdjk5RJ.png",Star Sports 2
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sports 3-v
+http://103.127.92.38:81/play/starsp3
+#EXTINF:-1 group-title="SPORTS",Star Sports Select 1HD
+http://103.127.92.38:81/play/select1
+#EXTINF:-1 group-title="SPORTS",Star Sports Select 2 HD
+http://103.127.92.38:81/play/select2
+#EXTINF:-1 group-title="SPORTS",SUPPER SPORTS
+http://208.86.19.13:81/725.stream/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SWISS SPORT TV 🇨🇭
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:-1 group-title="SPORTS",Ten 1 HD-V
+http://103.127.92.38:81/play/ten1
+#EXTINF:-1 group-title="SPORTS",Ten Cricket-D
+http://103.127.92.38:81/play/tencricket
 #EXTINF:-1 ,zeebang
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 ,starjalsha
