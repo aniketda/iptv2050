@@ -3,12 +3,8 @@
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/H9qgGSc.png",BTV HD
 http://103.106.2.152:13456/btv.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/R9TpMB0/amar.jpg",NTV
-http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",Maasranga HD
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/fj8nxOw.png",Channel 9 HD
-http://208.86.19.13:81/608.stream/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/McQwv50.png",SATV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/K43LsMQ.png",Bangla TV
@@ -79,14 +75,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 http://208.86.19.13:81/614.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV [BD]
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/WaZyAOE.png",Gaan Bangla
-http://208.86.19.13:81/612.stream/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png",Independent
-http://208.86.19.13:81/601.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/hiXQiMa.jpg",Khusboo TV
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",MY TV [BD]
-http://208.86.19.13:81/651.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/aDGaGMw.jpg",R Plus Gold [IN]
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imgur.com/VgY9OSa.png",CCN BANGLA
@@ -277,8 +267,6 @@ http://iptv.prosto.tv:7000/ch207/video.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Qkvo1BH.png",Sonic
 http://144.217.70.181:9587/hin2/SONIC/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/VKSpv5k.png",Pogo SD
-http://144.217.70.181:9587/hin2/POGO/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg",Nick
 http://dangguli.live:8080/Nick/index.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/HK7OE.png",Hungama TV (Hindi-tamil-telegu)
@@ -331,8 +319,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1  tvg-logo="http://stariptv.org:80/logo/countryies/india.jpg",WILLOW CRICKET HD
 http://1tv1.net:8080/live/nazha2021/123456/99346.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.m3u8
 #EXTINF:-1  tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png",A SPORTS
@@ -607,8 +593,6 @@ http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TV 32 HD
 https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 ,ATN BANGLA
-http://208.86.19.13:81/626.stream/index.m3u8
 #EXTINF:-1  tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ASztPbS.png",ITV Bangla
@@ -655,12 +639,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58iPuS.jpg",I IPTV [BD]
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
-#EXTINF:-1 group-title="Favourites" tvg-logo="https://i.imgur.com/i5J3zrE.png",Pogo
-http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,#http://103.55.144.46/hls/colorscineplex.m3u8
 http://watchindia.net:8880/live/26490/86400/803.m3u8
-#EXTINF:-1 ,#http://208.86.19.13:81/715.stream/index.m3u8
-http://watchindia.net:8880/live/26490/86400/2163.m3u8
 #EXTINF:-1 ,#http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 http://watchindia.net:8880/live/26490/86400/1070.m3u8
 #EXTINF:-1 ,#http://103.55.144.46:80/hls/select2.m3u8
@@ -785,8 +765,6 @@ http://208.86.19.13:81/716.stream/index.m3u8
 http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:-1 group-title="Urdu" tvg-logo="https://imgpile.com/images/5XsZq8.jpg",#EXTINF:-1 tvg-logo="https://imgpile.com/images/5XsZq8.jpg" group-title="Urdu" HUM SATAREY
 http://208.86.19.13:81/692.stream/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Bein Sport HD 01
-http://bdiptv.net:8082/BEIN-SPORTS-PREMIUM-1/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Bein Sport HD 02
 http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Bein Sport HD 03
@@ -841,13 +819,3 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/R6HReXT.png",91.Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
-
-
-
-
-
-
-
-
-
-
