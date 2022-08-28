@@ -1,4 +1,12 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg"  group-title="Sports",Star Sports 1 HD (BDIX16)
+http://bdiptv.net:8082/STAR-SPORTS-1HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg"  group-title="Sports",Star Sports 1 HD (BDIX15)
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+
 #EXTINF:-1 ,t-sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/H9qgGSc.png",BTV HD
