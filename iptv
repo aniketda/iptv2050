@@ -11,8 +11,6 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-1 group-title="Dish TV",Star Sports 1
 http://103.179.246.243:8000/play/a00c
-#EXTINF:-1 group-title="Dish TV",Star Sports 2
-http://103.179.246.243:8000/play/a00d
 
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png",Banglavision HD
