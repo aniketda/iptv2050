@@ -1,36 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="All" tvg-logo="http://rohabtv.stream/uploads/tv_image/geo-super.jpg",Geo Super
-http://208.86.19.13:81/725.stream/index.m3u8
-#EXTINF:-1 ,Asia Cup
-http://stream.serverbd247.com/hls/sky-live.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png",PTV Sports (BDIX15)
-http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://bdiptv.net/assets/images/asp.jpg",A Sports HD (pk)
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg",Star Sports 1 HD (BDIX15)
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg",Star Sports 2
-http://103.151.43.102:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Dish TV",Star Sports 1
-http://103.179.246.243:8000/play/a00c
-#EXTINF:-1 group-title="Dish TV",Star Sports 2
-http://103.179.246.243:8000/play/a00d
-
-#EXTINF:-1 group-title="Dish TV",Sony TEN 3 Hindi
-http://103.179.246.243:8000/play/a00k
-
-#EXTINF:-1 ,Star Sports 1 HD
-http://103.151.43.102:8000/play/a007/index.m3u8
-#EXTINF:-1 ,Star Sports 3
-http://103.151.43.102:8000/play/a00r/index.m3u8
-#EXTINF:-1 ,Star Sports Hin 1 HD
-http://103.151.43.102:8000/play/a00b/index.m3u8
-#EXTINF:-1 ,Star Sports Select 2 HD
-http://103.151.43.102:8000/play/a03c/index.m3u8
-#EXTINF:-1 ,Win Sports HD
-http://186.148.188.15:8900/play/a008
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png",Banglavision HD
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/MmhxR5E.png",Channel 24 HD
