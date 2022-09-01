@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Dish TV",Star Sports 1
-http://103.179.246.243:8000/play/a00c
-#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-2-9tcgsmhj7lv4.png" group-title="Sports",Star Sports 2
-http://bciptv.net:8082/starsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports", Star Sports Select 1 HD 
-http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports 2
 http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
