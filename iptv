@@ -9,7 +9,14 @@ http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports 2
 http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
+#EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star Sports 1(Flixhub)
+http://103.55.144.46/hls/stersports1hd.m3u8
 
+
+#EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png",Ten Sports PK(Flixhub)
+http://103.55.144.46/hls/ten.m3u8
+#EXTINF:-1 group-title="Flixhub" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png",PTV Sports(Flixhub)
+http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="SPORTS", Willow TV
 http://bciptv.net:8082/WILLOW-CRICKET-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://bdiptv.net/assets/images/asp.jpg",A Sports HD (pk)
