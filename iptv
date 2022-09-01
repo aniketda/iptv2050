@@ -1,28 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 ,Asia Cup
-http://stream.serverbd247.com/hls/sky-live.m3u8
-#EXTINF:-1 ,Asia Cup2
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-
-#EXTINF:-1 ,Asia Cup3
-http://221.120.204.4:80/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Asia Cup4
-http://bascdn.aliflailabd.live:8989/nagorik-tv/index.m3u8
-
-#EXTINF:-1 ,Asia Cup5
-http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png",PTV Sports (BDIX15)
-http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://bdiptv.net/assets/images/asp.jpg",A Sports HD (pk)
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg",Star Sports 1 HD (BDIX15)
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-
 #EXTINF:-1 group-title="Dish TV",Star Sports 1
 http://103.179.246.243:8000/play/a00c
+#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-2-9tcgsmhj7lv4.png" group-title="Sports",Star Sports 2
+http://bciptv.net:8082/starsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports", Star Sports Select 1 HD 
+http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
 
+#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports 2
+http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
+
+#EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="SPORTS", Willow TV
+http://bciptv.net:8082/WILLOW-CRICKET-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://bdiptv.net/assets/images/asp.jpg",A Sports HD (pk)
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png",Banglavision HD
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
@@ -42,8 +33,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 http://208.86.19.13:81/614.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV [BD]
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 ,Nagorik Tv
-http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/p0I5dr0.png",Channel I HD
@@ -124,9 +113,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.jpg",SOMOY TV [BD]
 http://208.86.19.13:81/693.stream/index.m3u8
-
-
-
 #EXTINF:-1 ,DUBAI SPORTS 1 HD
 http://185.217.88.44:1078/play/a0b1
 #EXTINF:-1 ,DUBAI SPORTS 2 HD
@@ -145,36 +131,6 @@ http://185.217.88.44:1078/play/a113
 http://185.217.88.44:1078/play/a110
 #EXTINF:-1 ,Dubai TV
 http://185.217.88.44:1078/play/a10z
-#EXTINF:-1 ,ESPN
-http://181.189.254.33:8080/play/a0fx/index.m3u8
-#EXTINF:-1 ,ESPN +
-http://181.189.254.33:8080/play/a0dy/index.m3u8
-#EXTINF:-1 ,ESPN 2
-http://181.189.254.33:8080/play/a0fy/index.m3u8
-#EXTINF:-1 ,ESPN 3
-http://181.189.254.33:8080/play/a0eu/index.m3u8
-#EXTINF:-1 ,ESPN 4 HD
-http://181.189.254.33:8080/play/a0h4/index.m3u8
-#EXTINF:-1 ,EWTN
-http://181.189.254.33:8080/play/a0dw/index.m3u8
-#EXTINF:-1 ,El Gourmet
-http://181.189.254.33:8080/play/a0er/index.m3u8
-#EXTINF:-1 ,Europa HD
-http://181.189.254.33:8080/play/a0b0/index.m3u8
-#EXTINF:-1 ,Exa TV
-http://181.189.254.33:8080/play/a0fz/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 2 HD
-http://181.189.254.33:8080/play/a0b9/index.m3u8
-#EXTINF:-1 ,FUTV CR
-http://181.189.254.33:8080/play/a0g7/index.m3u8
-#EXTINF:-1 ,FX HD
-http://181.189.254.33:8080/play/a0az/index.m3u8
-#EXTINF:-1 ,Film & arts HD
-http://181.189.254.33:8080/play/a0av/index.m3u8
-#EXTINF:-1 ,Fox Sport 3
-http://181.189.254.33:8080/play/a0dm/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg",Star Sports 1
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76561
 #EXTINF:-1  tvg-logo="https://www.dishurdu.com/images/A-Sports-HD-Logo.png",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/YcrrywD.png",BT Sport / ESPN
@@ -207,10 +163,6 @@ http://181.176.148.142:8000/play/a02e
 http://181.176.148.142:8000/play/a02f
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBvf6qepd2387CGhdtSb4Rd0ZD6zDRXelgQ&usqp=CAU",Bein Sport XTRA EN
 http://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
-#EXTINF:-1 ,starjalsha
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1 ,zeebang
-http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg",Colors Bangla HD
 http://208.86.19.13:81/616.stream/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://ajkerproduct.com/wp-content/uploads/2021/01/Enter10-bangla-all-serial.jpg",Enter 10 Bangla
@@ -341,252 +293,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/LZ7W3Yc.png",Masti TV
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 ,&flix HD
-http://103.151.43.102:8000/play/a00w/index.m3u8
-#EXTINF:-1 ,&pictures HD
-http://103.151.43.102:8000/play/a03a/index.m3u8
-#EXTINF:-1 ,24B HD
-http://103.151.43.102:8000/play/a054/index.m3u8
-#EXTINF:-1 ,9X JALWA
-http://103.151.43.102:8000/play/a02v/index.m3u8
-#EXTINF:-1 ,9X JHAKAAS
-http://103.151.43.102:8000/play/a02m/index.m3u8
-#EXTINF:-1 ,9XM
-http://103.151.43.102:8000/play/a02x/index.m3u8
-#EXTINF:-1 ,A Sports HD
-http://103.151.43.102:8000/play/a04z/index.m3u8
-#EXTINF:-1 ,A1 TV
-http://103.151.43.102:8000/play/a06z/index.m3u8
-#EXTINF:-1 ,ABZY Movies
-http://103.151.43.102:8000/play/a04o/index.m3u8
-#EXTINF:-1 ,ANIMAL PLANET HD
-http://103.151.43.102:8000/play/a034/index.m3u8
-#EXTINF:-1 ,Al Ehsaan TV
-http://103.151.43.102:8000/play/a078/index.m3u8
-#EXTINF:-1 ,B4U KADAK
-http://103.151.43.102:8000/play/a02o/index.m3u8
-#EXTINF:-1 ,B4U Movies
-http://103.151.43.102:8000/play/a04p/index.m3u8
-#EXTINF:-1 ,B4U Music
-http://103.151.43.102:8000/play/a04n/index.m3u8
-#EXTINF:-1 ,Balle Balle Non-Stop Music
-http://103.151.43.102:8000/play/a02h/index.m3u8
-#EXTINF:-1 ,Bflix Movies
-http://103.151.43.102:8000/play/a04v/index.m3u8
-#EXTINF:-1 ,Big Magic
-http://103.151.43.102:8000/play/a04f/index.m3u8
-#EXTINF:-1 ,Box Cinema
-http://103.151.43.102:8000/play/a02k/index.m3u8
-#EXTINF:-1 ,CARTOON NETWORK
-http://103.151.43.102:8000/play/a03j/index.m3u8
-#EXTINF:-1 ,CINE MAX
-http://103.151.43.102:8000/play/a06v/index.m3u8
-#EXTINF:-1 ,CINEMA TV INDIA
-http://103.151.43.102:8000/play/a02l/index.m3u8
-#EXTINF:-1 ,COLORS INFINITY HD
-http://103.151.43.102:8000/play/a03e/index.m3u8
-#EXTINF:-1 ,Cineplex Bollywood
-http://103.151.43.102:8000/play/a04u/index.m3u8
-#EXTINF:-1 ,Colors HD
-http://103.151.43.102:8000/play/a00v/index.m3u8
-#EXTINF:-1 ,Colors Rishtey
-http://103.151.43.102:8000/play/a04i/index.m3u8
-#EXTINF:-1 ,DANGAL
-http://103.151.43.102:8000/play/a05k/index.m3u8
-#EXTINF:-1 ,DD SPORTS
-http://103.151.43.102:8000/play/a05p/index.m3u8
-#EXTINF:-1 ,DHAMAAL
-http://103.151.43.102:8000/play/a02s/index.m3u8
-#EXTINF:-1 ,DILLAGI
-http://103.151.43.102:8000/play/a02q/index.m3u8
-#EXTINF:-1 ,DISCOVERY KIDS
-http://103.151.43.102:8000/play/a03u/index.m3u8
-#EXTINF:-1 ,Dhanak News
-http://103.151.43.102:8000/play/a06y/index.m3u8
-#EXTINF:-1 ,Dhinchaak
-http://103.151.43.102:8000/play/a04q/index.m3u8
-#EXTINF:-1 ,Dhinchaak 2
-http://103.151.43.102:8000/play/a04l/index.m3u8
-#EXTINF:-1 ,Discover Pakistan
-http://103.151.43.102:8000/play/a06n/index.m3u8
-#EXTINF:-1 ,Discovery HD
-http://103.151.43.102:8000/play/a01o/index.m3u8
-#EXTINF:-1 ,Disney Channel
-http://103.151.43.102:8000/play/a03l/index.m3u8
-#EXTINF:-1 ,Disney Jr.
-http://103.151.43.102:8000/play/a03o/index.m3u8
-#EXTINF:-1 ,E1 TV
-http://103.151.43.102:8000/play/a071/index.m3u8
-#EXTINF:-1 ,EUROSPORT
-http://103.151.43.102:8000/play/a00n/index.m3u8
-#EXTINF:-1 ,EYE TV
-http://103.151.43.102:8000/play/a077/index.m3u8
-#EXTINF:-1 ,Enterr-10 Movies
-http://103.151.43.102:8000/play/a04m/index.m3u8
-#EXTINF:-1 ,GEM COMEDY
-http://103.151.43.102:8000/play/a05a/index.m3u8
-#EXTINF:-1 ,GEM DRAMA HD
-http://103.151.43.102:8000/play/a056/index.m3u8
-#EXTINF:-1 ,GEM LATINO
-http://103.151.43.102:8000/play/a059/index.m3u8
-#EXTINF:-1 ,GEM NATURE
-http://103.151.43.102:8000/play/a05b/index.m3u8
-#EXTINF:-1 ,GEM SERIES HD
-http://103.151.43.102:8000/play/a057/index.m3u8
-#EXTINF:-1 ,GEM TV HD
-http://103.151.43.102:8000/play/a055/index.m3u8
-#EXTINF:-1 ,GR8 TV
-http://103.151.43.102:8000/play/a06w/index.m3u8
-#EXTINF:-1 ,HEX-IP-001-MAX
-http://103.151.43.102:8000/play/a060/index.m3u8
-#EXTINF:-1 ,HEX-IP-002— KS-USB-38
-http://103.151.43.102:8000/play/a061/index.m3u8
-#EXTINF:-1 ,HEX-IP-003 DITTU-10
-http://103.151.43.102:8000/play/a06h/index.m3u8
-#EXTINF:-1 ,HEX-IP-004 Traveling
-http://103.151.43.102:8000/play/a06i/index.m3u8
-#EXTINF:-1 ,HEX-IP-005 Stage
-http://103.151.43.102:8000/play/a06j/index.m3u8
-#EXTINF:-1 ,HEX-IP-006 ZPakSong
-http://103.151.43.102:8000/play/a06k/index.m3u8
-#EXTINF:-1 ,HISTORY TV18 HD
-http://103.151.43.102:8000/play/a036/index.m3u8
-#EXTINF:-1 ,Hungama Tv
-http://103.151.43.102:8000/play/a03k/index.m3u8
-#EXTINF:-1 ,Live Action
-http://103.151.43.102:8000/play/a06x/index.m3u8
-#EXTINF:-1 ,MANORANJAN MOVIES
-http://103.151.43.102:8000/play/a05n/index.m3u8
-#EXTINF:-1 ,MASTIII
-http://103.151.43.102:8000/play/a02p/index.m3u8
-#EXTINF:-1 ,MAX HD
-http://103.151.43.102:8000/play/a00c/index.m3u8
-#EXTINF:-1 ,MBC2
-http://103.151.43.102:8000/play/a016/index.m3u8
-#EXTINF:-1 ,MBC3
-http://103.151.43.102:8000/play/a017/index.m3u8
-#EXTINF:-1 ,MIFA + HD
-http://103.151.43.102:8000/play/a05c/index.m3u8
-#EXTINF:-1 ,MIFA MUSIC HD
-http://103.151.43.102:8000/play/a058/index.m3u8
-#EXTINF:-1 ,MINI MAX
-http://103.151.43.102:8000/play/a06u/index.m3u8
-#EXTINF:-1 ,MN+ HD
-http://103.151.43.102:8000/play/a01k/index.m3u8
-#EXTINF:-1 ,MTV BEATS
-http://103.151.43.102:8000/play/a05s/index.m3u8
-#EXTINF:-1 ,Maha Movies
-http://103.151.43.102:8000/play/a04g/index.m3u8
-#EXTINF:-1 ,Manoranjan Grand
-http://103.151.43.102:8000/play/a04r/index.m3u8
-#EXTINF:-1 ,Manoranjan TV
-http://103.151.43.102:8000/play/a04j/index.m3u8
-#EXTINF:-1 ,Movie Plus
-http://103.151.43.102:8000/play/a02g/index.m3u8
-#EXTINF:-1 ,Mtunes+
-http://103.151.43.102:8000/play/a02i/index.m3u8
-#EXTINF:-1 ,Music India
-http://103.151.43.102:8000/play/a02n/index.m3u8
-#EXTINF:-1 ,NAT GEO HD
-http://103.151.43.102:8000/play/a01n/index.m3u8
-#EXTINF:-1 ,NAT Geo Wild HD
-http://103.151.43.102:8000/play/a00d/index.m3u8
-#EXTINF:-1 ,NOOR TV
-http://103.151.43.102:8000/play/a06t/index.m3u8
-#EXTINF:-1 ,NS TV
-http://103.151.43.102:8000/play/a075/index.m3u8
-#EXTINF:-1 ,Nick
-http://103.151.43.102:8000/play/a03m/index.m3u8
-#EXTINF:-1 ,Nick Jr.
-http://103.151.43.102:8000/play/a03t/index.m3u8
-#EXTINF:-1 ,ONYX HD
-http://103.151.43.102:8000/play/a051/index.m3u8
-#EXTINF:-1 ,PITAARA
-http://103.151.43.102:8000/play/a02w/index.m3u8
-#EXTINF:-1 ,PIX HD
-http://103.151.43.102:8000/play/a039/index.m3u8
-#EXTINF:-1 ,Pak News
-http://103.151.43.102:8000/play/a073/index.m3u8
-#EXTINF:-1 ,Pogo
-http://103.151.43.102:8000/play/a03q/index.m3u8
-#EXTINF:-1 ,Quran TV
-http://103.151.43.102:8000/play/a076/index.m3u8
-#EXTINF:-1 ,RIVER HD
-http://103.151.43.102:8000/play/a053/index.m3u8
-#EXTINF:-1 ,RUBIX HD
-http://103.151.43.102:8000/play/a052/index.m3u8
-#EXTINF:-1 ,Rishtey Cineplex
-http://103.151.43.102:8000/play/a04d/index.m3u8
-#EXTINF:-1 ,SET HD
-http://103.151.43.102:8000/play/a00x/index.m3u8
-#EXTINF:-1 ,SKY Cinema
-http://103.151.43.102:8000/play/a072/index.m3u8
-#EXTINF:-1 ,SONY PAL
-http://103.151.43.102:8000/play/a04c/index.m3u8
-#EXTINF:-1 ,SONY WAH
-http://103.151.43.102:8000/play/a05q/index.m3u8
-#EXTINF:-1 ,STAR BHARAT HD
-http://103.151.43.102:8000/play/a033/index.m3u8
-#EXTINF:-1 ,STAR MOVIES HD
-http://103.151.43.102:8000/play/a01l/index.m3u8
-#EXTINF:-1 ,STAR UTSAV MOVIES
-http://103.151.43.102:8000/play/a05o/index.m3u8
-#EXTINF:-1 ,STAR WORLD HD
-http://103.151.43.102:8000/play/a006/index.m3u8
-#EXTINF:-1 ,See TV
-http://103.151.43.102:8000/play/a06q/index.m3u8
-#EXTINF:-1 ,Showbox
-http://103.151.43.102:8000/play/a04w/index.m3u8
-#EXTINF:-1 ,Silver Screen N
-http://103.151.43.102:8000/play/a074/index.m3u8
-#EXTINF:-1 ,Sindh News
-http://103.151.43.102:8000/play/a06p/index.m3u8
-#EXTINF:-1 ,Sindh TV
-http://103.151.43.102:8000/play/a06o/index.m3u8
-#EXTINF:-1 ,Sony BBC Earth HD
-http://103.151.43.102:8000/play/a038/index.m3u8
-#EXTINF:-1 ,Star GOLD HD
-http://103.151.43.102:8000/play/a035/index.m3u8
-#EXTINF:-1 ,Star Gold Select HD
-http://103.151.43.102:8000/play/a037/index.m3u8
-#EXTINF:-1 ,Star News Asia
-http://103.151.43.102:8000/play/a06r/index.m3u8
-#EXTINF:-1 ,Star Plus HD
-http://103.151.43.102:8000/play/a00t/index.m3u8
-#EXTINF:-1 ,StarMovies Select HD
-http://103.151.43.102:8000/play/a01m/index.m3u8
-#EXTINF:-1 ,TLC HD
-http://103.151.43.102:8000/play/a01i/index.m3u8
-#EXTINF:-1 ,The Q
-http://103.151.43.102:8000/play/a04t/index.m3u8
-#EXTINF:-1 ,Vh1 - Rs 1
-http://103.151.43.102:8000/play/a05v/index.m3u8
-#EXTINF:-1 ,WOW CINEMA ONE
-http://103.151.43.102:8000/play/a02t/index.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD
-http://103.151.43.102:8000/play/a032/index.m3u8
-#EXTINF:-1 ,ZEE Cafe HD
-http://103.151.43.102:8000/play/a01j/index.m3u8
-#EXTINF:-1 ,ZEE Hindustan
-http://103.151.43.102:8000/play/a04h/index.m3u8
-#EXTINF:-1 ,ZEE NEWS
-http://103.151.43.102:8000/play/a05l/index.m3u8
-#EXTINF:-1 ,ZEE PUNJABI
-http://103.151.43.102:8000/play/a05m/index.m3u8
-#EXTINF:-1 ,ZEE TV HD
-http://103.151.43.102:8000/play/a00u/index.m3u8
-#EXTINF:-1 ,ZING
-http://103.151.43.102:8000/play/a05r/index.m3u8
-#EXTINF:-1 ,Zee Anmol
-http://103.151.43.102:8000/play/a04e/index.m3u8
-#EXTINF:-1 ,Zee Anmol Cinema
-http://103.151.43.102:8000/play/a04k/index.m3u8
-#EXTINF:-1 ,Zindagi TV USA
-http://103.151.43.102:8000/play/a070/index.m3u8
-#EXTINF:-1 ,Zoom
-http://103.151.43.102:8000/play/a03v/index.m3u8
-#EXTINF:-1 ,iLOVE
-http://103.151.43.102:8000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="http://127.0.0.1/",Disney Channel
 http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="http://127.0.0.1/",Spacetoon
