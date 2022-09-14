@@ -263,6 +263,43 @@ http://jupiter.bdcabletv.com/ColorsBangla_NC/video.m3u8
 http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="http://10.252.253.254/img/Sony_Aath.png",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Deepto TV (J)
+http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Massranga TV
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Star Jolsha HD (J)
+http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",ZEE Bangla HD (J)
+http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Jalsha Movies (J)
+http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Colours Bangla Cinema
+http://208.86.19.13:81/907.stream/index.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Colors Bangla HD (J)
+http://jupiter.bdcabletv.com/ColorsBangla_NC/video.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Colors Bangla HD
+http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Sony Aath (J)
+http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Amar Bangla
+http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Rongeen Toon
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",&-TV
+http://103.162.136.235:4500/play/a00u/index.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Sony TV
+http://103.162.136.235:4500/play/a00g/index.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",ZEE TV
+http://103.162.136.235:4500/play/a00e/index.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Star Bharat
+http://103.162.136.235:4500/play/a00p/index.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Star Plus HD
+http://103.162.136.235:4500/play/a00d/index.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",SUB TV
+http://103.162.136.235:4500/play/a00t/index.m3u8
+#EXTINF:-1 group-title="ভারত বাংলা",Colors TV
+http://103.162.136.235:4500/play/a00f/index.m3u8
+
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg",Sun Bangla
 http://208.86.19.13:81/903.stream/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA",ZEE 24 GHANTA
@@ -279,6 +316,14 @@ http://208.86.19.13:81/904.stream/index.m3u8
 http://221.120.204.4:8080/colours-hd-LOCKLE/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-logo="https://imgur.com/iCOQK4B.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://103.55.144.46/img/sony-maxhd.jpg",Sony Max HD
