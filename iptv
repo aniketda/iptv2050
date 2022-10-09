@@ -1,128 +1,16 @@
 #EXTM3U
-
-
-#EXTINF:-1 group-title=" Sports",T Sports 1080 (Akash Digital)
+#EXTINF:-1 group-title="Sports",T Sports 1080 (Akash Digital)
 http://iptv.hplink.com.bd:8080/hls/sportssd.m3u8
-
-#EXTINF:-1 group-title=" Sports",T Sports 720 (Akash Digital)
+#EXTINF:-1 group-title="Sports",T Sports 720 (Akash Digital)
 http://iptv.hplink.com.bd:8080/hls/sportss.m3u8
-
-#EXTINF:-1 group-title=" Sports",T Sports
+#EXTINF:-1 group-title="Sports",T Sports
 http://103.119.94.254:8000/play/4236966184/index.m3u8
-
-#EXTINF:-1 group-title=" Sports",T Sports
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title=" Sports",TOFFEE
-https://mprod-cdn.toffeelive.com/live-event-1/master_1500.m3u8
-#EXTINF:-1 group-title=" Sports",TOFFEE 480PX
-https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
-
-#EXTINF:-1 group-title=" Sports",TOFFEE 360PX
-https://mprod-cdn.toffeelive.com/live-event-1/master_640.m3u8
-#EXTINF:-1 group-title=" Sports",TOFFEE 240PX
-https://mprod-cdn.toffeelive.com/live-event-1/master_360.m3u8
-
-
-#EXTINF:-1 group-title=" Sports",S Sports 
-http://liveisl.com:8080/India/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title=" Sports",gazi tv
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title=" Sports",gazi tv
-http://tvs.embedsite.xyz:1936/live/sky_12/chunklist_w2121676567_tkd293emF0b2tlbmVuZHRpbWU9MTY2NTEyMjAyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjUxMTUwMjAmd293emF0b2tlbmhhc2g9X1NBOUk1QWxFRHdBY29iLTlpa0FPY0ZpYXdRY3RJdmFRREIySTR4N2YxYz0=.m3u8
-
-
-
-#EXTINF:-1 group-title=" Sports",gazi tv
-http://tvs.embedsite.xyz:1936/live/sky_16/chunklist_w1829110016_tkd293emF0b2tlbmVuZHRpbWU9MTY2NTEyMjE0MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NjUxMTUxNDAmd293emF0b2tlbmhhc2g9SXAwTGZGb0R3MkFZWkJBRGtwMkUzZkhaOXBiR3hEanVlV09FUjdCRUI3TT0=.m3u8
-
-#EXTINF:-1 group-title=" Sports",gazi tv
-http://103.121.14.18/hls/Gazi-TV.m3u8
-
-#EXTINF:-1 group-title=" Sports",gazi tv
-http://172.16.128.2:8081/live/sky2003/chunks.m3u8
-
-
-#EXTINF:-1 group-title=" Sports",Gtv
-http://172.16.128.2:8081/live/sky1010/chunks.m3u8
-
-#EXTINF:-1 group-title=" Sports",BT Sports
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports",STAR SPORTS 1 (Backup)
-http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Sports",STAR SPORTS 1
 http://103.16.24.54:8080/channel1/index.m3u8
-
-#EXTINF:-1 group-title="Sports",STAR SPORTS 1
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports",STAR SPORTS 1
-https://s7.gocast123.me:8201/hd/hls/DX7ZEfnDGaAP7zPohT5ZPg/1665126783/starhindi.m3u8
-
-
-#EXTINF:-1 group-title=" Sports",star sports select 1
-http://172.16.128.2:8081/live/sky1009/chunks.m3u8
-
-
-#EXTINF:-1 group-title=" Sports",star sports 2
-http://172.16.128.2:8081/live/sky1012/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",Gazi Tv (Backup)
-http://103.159.4.38:9191/CH2-SP2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",SONY SIX(Backup)
-http://103.159.4.38:9191/CH6-SP5/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Sports",SONY SIX
 http://103.16.24.54:8080/channel7/index.m3u8
-
-
-#EXTINF:-1 group-title=" Sports",Sony six
-http://172.16.128.2:8081/live/sky1008/chunks.m3u8
-
-
-#EXTINF:-1 group-title="Sports",SONY SIX
-https://engbishal.ml/PakvsEng.m3u8
-
 #EXTINF:-1 group-title="Sports",SONY SIX
 http://50.7.237.4:8080/SONYSIXHD/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports",Sky Sports 
-http://14.192.129.138:8000/play/ASD/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TEN 1 (backup)
-http://103.159.4.38:9191/CH7-SP7/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title=" Sports",ten 1
-http://172.16.128.2:8081/live/sky1011/chunks.m3u8
-
-#EXTINF:-1 group-title=" Sports",ten 1
-http://103.109.56.116/live/skyfeed1001/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TEN 2 (backup)
-http://103.159.4.38:9191/CH8-SP8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title=" Sports", 103. PTV SPORTS HD (backup)
-http://103.159.4.38:9191/CH9-SP9/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title=" Sports",ptv
-http://172.16.128.2:8081/live/sky2001/chunks.m3u8
-
-#EXTINF:-1 group-title=" Sports",ptv
-http://221.120.204.3/LOCKLE-PTV-SPORTS/index.m3u8
-
-#EXTINF:-1 group-title=" Sports", 103.SS SPORTS HD
-http://194.233.77.24:5866/hls/shlive3.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/FV2P0yZ/BTVChattagram.jpg",BTV Chattagram
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png",Banglavision HD
@@ -235,8 +123,6 @@ http://103.162.136.235:4500/play/a00n/index.m3u8
 http://103.162.136.235:4500/play/a014/index.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/K8YUMMt.png",Star World HD
 http://103.162.136.235:4500/play/a019/index.m3u8
-#EXTINF:-1 group-title="Indian Hindi" tvg-logo="https://i.imgur.com/ro7bedn.png",Sony Max HD..
-http://103.162.136.235:4500/play/a01b/index.m3u8
 #EXTINF:-1  tvg-logo="ext",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/F4dKRnM/mtvwma.jpg",MTV WMA HD
@@ -591,8 +477,6 @@ http://103.99.249.107:81/play/a03o
 http://15.1.5.10:8082/colorsindia/index.m3u8
 #EXTINF:-1 ,Gtv HD
 http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
-#EXTINF:-1 ,Nexus TV
-http://15.1.5.14:8082/nexus/index.m3u8
 #EXTINF:-1 ,Sony TV
 http://15.1.5.14:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 group-title="Premium Telco" tvg-logo="https://i.imgur.com/cvWkhfb.png",Deepto tv [6]
@@ -687,8 +571,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 http://edge.thunderbd.com:25461/live/tvappsports/roarzone/25.m3u8?
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi TV(Jagobd)
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png",Nexus TV HD(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58J4A1.jpg",BANGLA 21 TV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58JURC.jpg",CHANNEL S [UK]
@@ -935,8 +817,6 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/tJ69JZpt/image.jpg",Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/B69FJW5z/MMe4JMX.png",Tag TV
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 group-title="South Indian" tvg-logo="https://i.postimg.cc/NGHHZ32V/wzQh674.png",Tamil Vision
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 group-title="South Indian" tvg-logo="https://i.postimg.cc/3RZ6KG2d/9Lgkdh3.jpg",Makkal TV
@@ -1113,8 +993,6 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Palestine" tvg-logo="https://i.postimg.cc/kGwyRtVt/1-200314195-F70-L.jpg",Al Fajer TV 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 group-title="South Asia" tvg-logo="https://i.postimg.cc/qR47mpxp/tagtvsouthasia.png",Tag TV
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1 group-title="Indonesian" tvg-logo="https://i.postimg.cc/T1qCf4qG/YW4YdfC.png",ANTV
 http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 #EXTINF:-1 group-title="Indonesian" tvg-logo="https://i.postimg.cc/rpsn5YBN/Zee-Bioskop.jpg",Zee Bioskop
