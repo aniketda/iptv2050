@@ -117,20 +117,117 @@ http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/ZXBqJwX/KpopTV.jpg",KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.emojiterra.com/google/android-nougat/512px/26f3.png",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",RACING TV
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png",RUSH SPORTS
-http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
-https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SUPER SPORT PREMIER LEAGUE 1
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",THE BOAT SHOW
-https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg",TSN 1
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=10921&extension=ts&play_token=TQ6cftyhX8
+
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HV1s3dL/Tsports.png",T Sports
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/k4Bypxb/SonySix.jpg",Sony SIX HD
+https://tvs1.aynaott.com/SonySix/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7CTXHY4/Sonyten1.jpg",Sony Ten 1 HD
+http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/svnrSYk/Sonyten2.jpg",Sony Ten 2 HD
+https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Ten-3.png",Sony Ten 3 HD
+http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JmBrgQj/Starsports1.jpg",StarSports 1 HD
+http://45.125.220.129:81/play/a041
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/ygYNTyX/Starsports2.jpg",StarSports 2 HD
+http://221.120.204.3/STAR-SPORTS-2-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/2v6g6f6/Starsportss1.jpg",Star Sports Select 1 HD
+http://45.125.220.129:81/play/a057
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Sports Select 2 HD
+http://45.125.220.129:81/play/a058
+#EXTINF:-1 group-title="Sports",Star Sports 2
+https://tvs1.aynaott.com/StartSports2hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",BTV (Akash Digital)
+http://103.143.235.50:8080/ch2/ch2.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Star Jalsha (Akash Digital)
+http://103.143.235.50:8080/ch1/ch1.m3u8
+#EXTINF:-1 group-title="Sports",Free Sports
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+#EXTINF:-1 group-title="Sports",Ptv Sports
+http://221.120.204.3/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",ASPORTS
+http://221.120.204.3/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 ,Channel 1 @fifaxlive
+http://live.wolfiptv.tk:80/XsmK1tgJ9t/xD9eKuWm7Q/71664
+#EXTINF:-1 ,Channel 2 @fifaxlive
+http://live.wolfiptv.tk:80/XsmK1tgJ9t/xD9eKuWm7Q/91987
+#EXTINF:-1 ,Channel 3 @fifaxlive
+http://procdn.xyz:80/8AD1579AA715/7D834094513C/63125
+#EXTINF:-1 ,Channel 4 @fifaxlive
+http://procdn.xyz:80/8AD1579AA715/7D834094513C/63176
+#EXTINF:-1 ,Channel 5 @fifaxlive
+http://procdn.xyz:80/8AD1579AA715/7D834094513C/155928
+#EXTINF:-1 ,Channel 6 @fifaxlive
+http://procdn.xyz:80/8AD1579AA715/7D834094513C/155929
+#EXTINF:-1 ,Channel 7 @fifaxlive
+http://procdn.xyz:80/8AD1579AA715/7D834094513C/108908
+#EXTINF:-1 ,Channel 8 @fifaxlive
+http://procdn.xyz:80/8AD1579AA715/7D834094513C/34483
+#EXTINF:-1 group-title="T20 World Cup",Star Sports 1 (backup 4)
+http://live.easy24dar.tk:80/aPSgHexSDy/mtXJX1qqLv/71664
+#EXTINF:-1 group-title="T20 World Cup",Star Sports Hindi
+http://live.wolfiptv.tk:80/live/XsmK1tgJ9t/xD9eKuWm7Q/91987.m3u8
+#EXTINF:-1 group-title="T20 World Cup",Star Sports Hindi (backup 1)
+https://cdn1.mkhossain.ga/hls/star1en/.m3u8
+#EXTINF:-1 group-title="T20 World Cup",Star Sports Hindi (backup 2)
+http://live.easy24dar.tk:80/aPSgHexSDy/mtXJX1qqLv/91987
+#EXTINF:-1 group-title="T20 World Cup",Star Sports Tamil
+http://tptv.cz:80/7744A39042695C1/ISM5qh405N/34487
+#EXTINF:-1 group-title="T20 World Cup",Star Sports Tamil (backup 1)
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/93731
+#EXTINF:-1 group-title="T20 World Cup",PTV Sports (backup 3)
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
+#EXTINF:-1 group-title="T20 World Cup",ESPN+ (backup 1)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
+#EXTINF:-1 group-title="T20 World Cup",ESPN+ (backup 2)
+http://ys-users.com:8080/christa/christa/420913
+#EXTINF:-1 group-title="T20 World Cup",Sky Sports (backup 2)
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/3094
+#EXTINF:-1 group-title="T20 World Cup",Sky Sports (backup 3)
+http://ys-users.com:8080/christa/christa/428286
+#EXTINF:-1 group-title="T20 World Cup",Willow
+http://ys-users.com:8080/christa/christa/418212
+#EXTINF:-1 group-title="T20 World Cup",Willow (backup 4)
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/68211
+#EXTINF:-1 group-title="T20 World Cup",Willow (backup 5)
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100936
+#EXTINF:-1 group-title="T20 World Cup",Willow (backup 6)
+http://live.wolfiptv.tk:80/XsmK1tgJ9t/xD9eKuWm7Q/68211
+#EXTINF:-1 group-title="T20 World Cup",ESPN
+http://ys-users.com:8080/christa/christa/367070
+#EXTINF:-1 group-title="T20 World Cup",ESPN (backup 1)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54369.ts
+#EXTINF:-1 group-title="T20 World Cup",ESPN (backup 2)
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100401
+#EXTINF:-1 group-title="T20 World Cup",ESPN (backup 3)
+http://live.wolfiptv.tk:80/XsmK1tgJ9t/xD9eKuWm7Q/74481
+#EXTINF:-1 group-title="T20 World Cup",ESPN (backup 4)
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2928.ts
+#EXTINF:-1 group-title="T20 World Cup",ESPN (backup 5)
+http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1644
+#EXTINF:-1 group-title="T20 World Cup",SuperSports
+http://ys-users.com:8080/christa/christa/377948
+#EXTINF:-1 group-title="T20 World Cup",SuperSports (backup 2)
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/91285
+#EXTINF:-1 group-title="T20 World Cup",SuperSports (backup 3)
+http://live.wolfiptv.tk:80/XsmK1tgJ9t/xD9eKuWm7Q/91285
+#EXTINF:-1 group-title="T20 World Cup",SuperSports (backup 4)
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1440547.ts
+#EXTINF:-1 group-title="T20 World Cup",Astro Cricket (backup 1)
+http://ys-users.com:8080/christa/christa/377941
+#EXTINF:-1 group-title="T20 World Cup",Fox sports
+http://ys-users.com:8080/christa/christa/425262
+#EXTINF:-1 group-title="T20 World Cup",Channel nine
+http://ys-users.com:8080/christa/christa/434736
+#EXTINF:-1 group-title="T20 World Cup",Star Sports 2
+https://tvs1.aynaott.com/StartSports2hd/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Star SPORTS 1 HD
+http://103.143.235.50:8080/ch5/ch5.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://tinyurl.com/2py487hx",TSPORTS Live Sports  (GC - HPLink)
+http://103.143.235.50:8080/ch4/ch4.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",FOX SPORTS 1 HD
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
