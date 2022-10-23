@@ -120,24 +120,164 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 , LIVE SPORTS
 https://d3cfw2mckicdfw.cloudfront.net/0e6f1d39406c6b33f6d261606379800e09f02042/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
 http://test-otv1.ftpbd.net/streams/119/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 #https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
-
 http://103.143.235.50:8080/ch5/ch5.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports-4
 https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
-
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports-5
 http://103.158.2.18/iTV/video.m3u8
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="SPORTS", Live Sports-6
+https://ranapk.ml/Sony_Liv-4.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
+http://103.158.2.10:1935/live/ch-1/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
+#http://103.143.235.50:8080/ch4/ch4.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 1 HD 1
+http://watchindia.net:8880/live/vvv/vvv/808.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 1 HD 2
+http://watchindia.net:8880/live/vvv/vvv/2162.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 1 HD 3
+http://watchindia.net:8880/live/vvv/vvv/2186.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 1 HD 4
+http://watchindia.net:8880/live/vvv/vvv/2232.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/vvv/vvv/1072.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 1 HD Hindi 2
+http://watchindia.net:8880/live/vvv/vvv/2167.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 2 HD 1
+http://watchindia.net:8880/live/vvv/vvv/1069.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 2 HD 2
+http://watchindia.net:8880/live/vvv/vvv/2163.m3u8
+#EXTINF:-1 group-title="witv",Star Sports Select 1 HD 1
+http://watchindia.net:8880/live/vvv/vvv/1070.m3u8
+#EXTINF:-1 group-title="witv",Star Sports Select 2 HD
+http://watchindia.net:8880/live/vvv/vvv/1071.m3u8
+#EXTINF:-1 group-title="witv",Star Sports Select 1 HD 2
+http://watchindia.net:8880/live/vvv/vvv/2292.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Cricket
+http://watchindia.net:8880/live/vvv/vvv/2090.m3u8
+
+#EXTINF:-1 ,Sony Ten 1 HD
+http://175.107.244.52:4455/play/a01k/index.m3u8
+#EXTINF:-1 ,Star S Hin 1 HD
+http://175.107.244.52:4455/play/a01m/index.m3u8
+#EXTINF:-1 ,Star Sports 1 HD
+http://175.107.244.52:4455/play/a01i/index.m3u8
+#EXTINF:-1 ,Star Sports 2 HD
+http://175.107.244.52:4455/play/a01j/index.m3u8
+#EXTINF:-1 ,Star Sports S 1 HD
+http://175.107.244.52:4455/play/a00t/index.m3u8
+#EXTINF:-1 ,Star Sports S 2 HD
+http://175.107.244.52:4455/play/a00u/index.m3u8#EXTINF:-1 ,Sony Ten 2 HD
+http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Premier League
+http://watchindia.net:8880/live/vvv/vvv/2092.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Football
+http://watchindia.net:8880/live/vvv/vvv/2093.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports F1
+http://watchindia.net:8880/live/vvv/vvv/2094.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Arena
+http://watchindia.net:8880/live/vvv/vvv/2095.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Golf
+http://watchindia.net:8880/live/vvv/vvv/2096.m3u8
+#EXTINF:-1 group-title="witv",Sony Six HD 1
+http://watchindia.net:8880/live/vvv/vvv/1763.m3u8
+#EXTINF:-1 group-title="witv",Sony Six HD 2
+http://watchindia.net:8880/live/vvv/vvv/2144.m3u8
+#EXTINF:-1 group-title="witv",Sony Ten 3 HD
+http://watchindia.net:8880/live/vvv/vvv/1758.m3u8
+#EXTINF:-1 group-title="witv",DD Sports
+http://watchindia.net:8880/live/vvv/vvv/2380.m3u8
+#EXTINF:-1 group-title="witv",Willow HD 1
+http://watchindia.net:8880/live/vvv/vvv/1067.m3u8
+#EXTINF:-1 group-title="witv",Willow HD 2
+http://watchindia.net:8880/live/vvv/vvv/2145.m3u8#EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
+http://103.143.235.50:8080/ch2/ch2.m3u8
+#EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV-2
+http://test-otv1.ftpbd.net/streams/120/index.m3u8
+
+#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
+http://iptv.hplink.com.bd:8080/hls/sports.m3u8
+#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
+http://45.125.220.129:81/play/a041
+#EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/512
+#EXTINF:-133 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
+#EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1
+http://watchindia.net:8880/live/vvv/vvv/2292.ts
+#EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
+
+#EXTINF:-1 tvg-logo="https://sportsmaza.com/wp-content/uploads/2018/04/Sony-Ten-1.jpg" group-title="SPORTS", Sony Ten 1 HD
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/588
+http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png"group-title="SPORTS",Sony ten 2 HD
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9070
+https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Ten-3.png"group-title="SPORTS",Sony Ten 3 HD
+#http://watchindia.net:8880/live/vvv/vvv/1758.m3u8
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9071
+http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-141 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SPORTS",Sony Ten 4
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", Sony Six SD
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", Sony Six HD
+https://tvs1.aynaott.com/SonySix/index.m3u8
+
+#EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
+#http://221.120.204.3/LOCKLE-PTV-SPORTS/index.m3u8
+http://watchindia.net:8880/live/vvv/vvv/2325.ts
+#EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
+#EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
+#http://208.86.19.13:81/602.stream/index.m3u8
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
+#EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
+http://watchindia.net:8880/live/vvv/vvv/1016.ts
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+http://ky-iptv.com:80/live/Harry1975/Harry1975/1116407.ts
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
+http://ky-iptv.com:80/live/Harry1975/Harry1975/1116408.ts
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
+http://watchindia.net:8880/live/vvv/vvv/2143.ts
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
+http://etc12.xyz/live/1504419863/989B9DC5/376171.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Primeun League
+http://watchindia.net:8880/live/vvv/vvv/2092.ts
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Football
+http://watchindia.net:8880/live/vvv/vvv/2093.ts
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-1
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports-2
+
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket
+http://etc12.xyz/live/1504419863/989B9DC5/195868.m3u8
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
+http://etc12.xyz/live/1504419863/989B9DC5/195869.m3u8
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
+http://etc12.xyz/live/1504419863/989B9DC5/376145.m3u8
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
+http://etc12.xyz/live/1504419863/989B9DC5/376144.m3u8
+#EXTINF: -1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200" group-title="SPORTS", SuperSport Premier League+
+#EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports HD
+#EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports-1
+#EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports-2
+#EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports-3
+
+#EXTINF:-1 tvg-logo="ht" group-title="SPORTS",BT-1
+http://reaperhosting.club:8080/jeavo/qudojpek/574894
+#EXTINF:-1 tvg-logo="ht" group-title="SPORTS",BT-2
+http://reaperhosting.club:8080/jeavo/qudojpek/574889
+#EXTINF:-1 tvg-logo="ht" group-title="SPORTS",BT-3
+http://reaperhosting.club:8080/jeavo/qudojpek/574884
 
 
 
