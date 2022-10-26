@@ -118,6 +118,20 @@ http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/ZXBqJwX/KpopTV.jpg",KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
+#EXTINF:-1 ,Live Sports-2
+http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+#EXTINF:-1 ,Live Sports-4
+https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
+#EXTINF:-1 ,Live Sports-5
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+#EXTINF:-1 ,T-Sports [2]
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",GAZI TV
+http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",Star Sports 1
+http://iptv.hplink.com.bd:8080/hls/sports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",Star Sports 1-[2]
+http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1 , LIVE SPORTS
 https://d3cfw2mckicdfw.cloudfront.net/0e6f1d39406c6b33f6d261606379800e09f02042/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
