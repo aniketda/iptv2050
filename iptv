@@ -113,6 +113,30 @@ http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",T SPORTS
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.ts
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports 🏆
+http://xtream.efiberbd.net:25461/mkaua/stream/3
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Gazi TV 
+http://xtream.efiberbd.net:25461/mkaua/stream/4
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Live
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
+http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",TEN Sports
+http://xtream.efiberbd.net:25461/mkaua/stream/1
+#EXTINF:-1 group-title="Freecatv",PTV Sports
+http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Freecatv",T Sports
+http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Freecatv",Star Sports 1
+http://15.1.5.14:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Freecatv",Star Sports 2
+http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Freecatv",Sony Sports 1
+http://15.1.5.10:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Freecatv",Sony Sports 3
+http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Freecatv",Sony Sports 5
+http://15.1.5.10:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",TEN SPORTS
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.ts
 #EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",LIVE SPORTS 2
