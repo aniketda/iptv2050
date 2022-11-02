@@ -1,6 +1,58 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/FV2P0yZ/BTVChattagram.jpg",BTV Chattagram
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+
+#EXTINF:-1 ,Star Sports Hindi
+http://watchindia.net:8880/live/vvv/vvv/2167.m3u8
+#EXTINF:-1 ,Willow HD
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
+#EXTINF:-1 ,Willow Extra HD
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253717
+#EXTINF:-1 ,s cricket 
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253716
+#EXTINF:-1 ,Cricket Live
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160971
+#EXTINF:-1 ,Super Sport Granstand
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160972
+#EXTINF:-1 group-title="T20 World Cup",Willow
+http://ys-users.com:8080/christa/christa/418212
+#EXTINF:-1 ,Sony Ten 4
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
+#EXTINF:-1 ,Freecatv
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
+#EXTINF:-1 ,Ten Sports
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
+#EXTINF:-1 ,TEN Sports 
+http://103.157.249.125:201/play/a041/index.m3u8
+#EXTINF:-1 ,TEN SPORTS 
+http://xtream.efiberbd.net:8080/live/mkaua/stream/1.ts
+#EXTINF:-1 ,LIVE SPORTS 4
+http://xtream.efiberbd.net:8080/live/mkaua/stream/4.ts
+#EXTINF:-1 ,live sports 5
+http://watchindia.net:8880/live/vvv/vvv/2325.ts
+#EXTINF:-1 ,Sony Six HD
+https://tvs1.aynaott.com/SonySix/index.m3u8
+#EXTINF:-1 group-title="T20 World Cup",PTV Sports 
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
+#EXTINF:-1 group-title="T20 World Cup",Willow 
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100936
+#EXTINF:-1 group-title="T20 World Cup",SuperSports
+http://ys-users.com:8080/christa/christa/377948
+#EXTINF:-1 group-title="T20 World Cup",SuperSports 
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1440547.ts
+#EXTINF:-1 group-title="T20 World Cup",Astro Cricket (
+http://ys-users.com:8080/christa/christa/377941
+#EXTINF:-1 group-title="T20 World Cup",Fox sports
+http://ys-users.com:8080/christa/christa/425262
+#EXTINF:-1 group-title="witv",Star Sports 1 HD 2
+http://watchindia.net:8880/live/vvv/vvv/2162.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 1 HD 3
+http://watchindia.net:8880/live/vvv/vvv/2186.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 1 HD 4
+http://watchindia.net:8880/live/vvv/vvv/2232.m3u8
+#EXTINF:-1 group-title="witv",Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/vvv/vvv/1072.m3u8
+
+
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png",Banglavision HD
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/MmhxR5E.png",Channel 24 HD
@@ -19,8 +71,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/pTJSGtj.png",Boishakhi TV
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",Shomoy TV
-http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kviJN1i.png",Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",Maasranga HD
@@ -65,8 +115,6 @@ https://bd.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
 http://208.86.19.13:81/613.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png",SangeetBangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/somoytv.png",Somoy News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/28DBQc7/Maasranga-TV.jpg",Maasranga TV
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png",Zee Bangla HD (BDIX16)
@@ -113,16 +161,10 @@ http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",T SPORTS
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.ts
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports 🏆
-http://xtream.efiberbd.net:25461/mkaua/stream/3
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Gazi TV 
-http://xtream.efiberbd.net:25461/mkaua/stream/4
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Live
+#EXTINF:-1 group-title="SPORTS.খেলাধুলা",PTV Live
 http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
+#EXTINF:-1 group-title="SPORTS.খেলাধুলা",Star Sports 1
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",TEN Sports
-http://xtream.efiberbd.net:25461/mkaua/stream/1
 #EXTINF:-1 group-title="Freecatv",PTV Sports
 http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Freecatv",T Sports
@@ -137,22 +179,12 @@ http://15.1.5.10:8082/ten1-hd/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Freecatv",Sony Sports 5
 http://15.1.5.10:8082/sony-six-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",TEN SPORTS
-http://xtream.efiberbd.net:8080/live/mkaua/stream/1.ts
-#EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",LIVE SPORTS 2
-http://103.157.249.125:201/play/a07c/index.m3u8
 #EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",LIVE SPORTS 3
 http://xtream.efiberbd.net:8080/live/mkaua/stream/2.ts
-#EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",LIVE SPORTS 4
-http://xtream.efiberbd.net:8080/live/mkaua/stream/4.ts
 #EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",LIVE SPORTS 5
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.ts
 #EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",LIVE SPORTS 6
 http://xtream.efiberbd.net:8080/live/mkaua/stream/37.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",STAR SPORTS 1HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",Star Sports 1-[2]
-http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1 group-title="witv",Star Sports 1 HD 1
 http://watchindia.net:8880/live/vvv/vvv/808.m3u8
 #EXTINF:-1 group-title="witv",Star Sports 1 HD 2
@@ -195,6 +227,233 @@ http://watchindia.net:8880/live/vvv/vvv/2092.m3u8
 http://watchindia.net:8880/live/vvv/vvv/2093.m3u8
 #EXTINF:-1 group-title="witv",Sky Sports F1
 http://watchindia.net:8880/live/vvv/vvv/2094.m3u8
+#EXTINF:-1 group-title="T20 World Cup",ESPN+ (Freecatv)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
+#EXTINF:-1 group-title="T20 World Cup",Sky Sports (Freecatv)
+http://ys-users.com:8080/christa/christa/428286
+
+
+
+
+
+#EXTINF:-1 group-title="T20 World Cup",Channel nine
+http://ys-users.com:8080/christa/christa/434736
+#EXTINF:-1 ,FOX SPORTS 1 HD Freecatv
+http://89.187.175.143:80/3056/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 2 HD
+http://89.187.175.143:80/3028/index.m3u8
+#EXTINF:-1 ,BEIN Xtra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 ,FOX SPORTS DETROIT HD
+http://89.187.175.143:80/3115/index.m3u8
+#EXTINF:-1 ,FOX SPORTS NORTH HD
+http://89.187.175.143:80/3113/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://tinyurl.com/2py487hx",Live Sports 11  (BDIX16)
+http://15.1.5.14:8082/en3-34/index.m3u8
+#EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 6 (BDIX16)
+http://15.1.5.14:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 8 (BDIX16)
+http://15.1.5.14:8082/en3-35/index.m3u8
+#EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 9 (BDIX16)
+http://15.1.5.14:8082/en3-36/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV (BDIX16)
+http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
+
+#EXTINF:-1 group-title="witv",Star Sports 2 HD 1
+http://watchindia.net:8880/live/vvv/vvv/1069.m3u8
+#EXTINF:-1 group-title="witv",Star Sports Select 1 HD 1
+http://watchindia.net:8880/live/vvv/vvv/1070.m3u8
+#EXTINF:-1 group-title="witv",Star Sports Select 2 HD
+http://watchindia.net:8880/live/vvv/vvv/1071.m3u8
+#EXTINF:-1 group-title="witv",Star Sports Select 1 HD 2
+http://watchindia.net:8880/live/vvv/vvv/2292.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Cricket
+http://watchindia.net:8880/live/vvv/vvv/2090.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Premier League
+http://watchindia.net:8880/live/vvv/vvv/2092.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Football
+#EXTINF:-1 group-title="T20 World Cup",ESPN
+http://ys-users.com:8080/christa/christa/367070
+#EXTINF:-1 group-title="T20 World Cup",ESPN (Freecatv)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54369.ts
+#EXTINF:-1 group-title="T20 World Cup",ESPN (Freecatv)
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100401
+#EXTINF:-1 group-title="T20 World Cup",ESPN (Freecatv)
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2928.ts
+http://watchindia.net:8880/live/vvv/vvv/2093.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports F1
+http://watchindia.net:8880/live/vvv/vvv/2094.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Arena
+http://watchindia.net:8880/live/vvv/vvv/2095.m3u8
+#EXTINF:-1 group-title="witv",Sky Sports Golf
+http://watchindia.net:8880/live/vvv/vvv/2096.m3u8
+#EXTINF:-1 group-title="witv",Sony Six HD 1
+http://watchindia.net:8880/live/vvv/vvv/1763.m3u8
+#EXTINF:-1 group-title="witv",Sony Six HD 2
+http://watchindia.net:8880/live/vvv/vvv/2144.m3u8
+#EXTINF:-1 group-title="witv",Sony Ten 3 HD
+http://watchindia.net:8880/live/vvv/vvv/1758.m3u8
+#EXTINF:-1 group-title="witv",DD Sports
+http://watchindia.net:8880/live/vvv/vvv/2380.m3u8
+#EXTINF:-1 group-title="witv",Willow HD 1
+http://watchindia.net:8880/live/vvv/vvv/1067.m3u8
+#EXTINF:-1 group-title="witv",Willow HD 2
+http://watchindia.net:8880/live/vvv/vvv/2145.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",Star Sports 1-[2]
+http://45.125.220.129:81/play/a041
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg",Star Sports Select 1
+http://watchindia.net:8880/live/vvv/vvv/2292.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",Sky Sports Cricket
+http://watchindia.net:8880/live/vvv/vvv/2143.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",Sky Sports Primeun League
+http://watchindia.net:8880/live/vvv/vvv/2092.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",Sky Sports Football
+http://watchindia.net:8880/live/vvv/vvv/2093.ts
+#EXTINF:-1 group-title="Sports",Free Sports
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+#EXTINF:-1 group-title="Sports",star plus
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=KSZWTBkcBAdwVQmVdY1AKw&expires=1667551397&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 group-title="Sports",zee Bangla
+https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=npyG39NkvUAkD34mWb3kAA&expires=1667551570&user=ef3b0701f26743a4a12ce79435bc6d0d
+
+#EXTINF:-1 ,Sports One Freecatv
+http://146.59.19.1/5031/index.m3u8
+#EXTINF:-1 ,Tennis Channel Freecatv
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Out Side Plus
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 ,Sony Ten 1 HD
+http://175.107.244.52:4455/play/a01k/index.m3u8
+#EXTINF:-1 ,Star S Hin 1 HD
+http://175.107.244.52:4455/play/a01m/index.m3u8
+
+#EXTINF:-1 ,LIVE SPORTS 3 Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.ts
+
+#EXTINF:-1 ,LIVE SPORTS 5 Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/36.ts
+#EXTINF:-1 ,LIVE SPORTS 6 Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/37.ts
+#EXTINF:-1 ,Freecatv
+http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Freecatv
+https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Freecatv
+http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony Six HD
+https://tvs1.aynaott.com/SonySix/index.m3u8
+#EXTINF:-1 ,Football tv
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160975
+#EXTINF:-1 ,Freecatv
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95052
+#EXTINF:-1 ,BeIN Sports 1  Premium
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
+#EXTINF:-1 ,BeIN Sports 2  Premium
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
+#EXTINF:-1 ,BeIN Sports 3  Premium
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
+#EXTINF:-1 ,Freecatv
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766
+#EXTINF:-1 ,BeIN Sports 2
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2767
+#EXTINF:-1 ,BeIN Sports 3
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2768
+#EXTINF:-1 ,BeIN Sports 4
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
+#EXTINF:-1 ,BeIN Sports 5
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
+#EXTINF:-1 ,BeIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 ,BeIN Sports 1 MAX
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/4196
+#EXTINF:-1 ,BeIN Sports 2 MAX
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
+#EXTINF:-1 ,Live Football 4
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+#EXTINF:-1 ,BT Sports 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 ,BT Sports 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 ,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 ,BeINSport Premium 3
+http://0011.me:2052/live/928933886921/366953965440/528.ts
+#EXTINF:-1 ,Sony Six
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/363954.ts
+#EXTINF:-1 ,SonyTen 1
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/363950.ts
+#EXTINF:-1 ,SonyTen 2
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/363951.ts
+#EXTINF:-1 ,🇿🇦 DSTV SUPERSPORT Football
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/393236.ts
+#EXTINF:-1 ,BeinSport Premium 1
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/161721.ts
+#EXTINF:-1 ,BeinSport 1
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9480.ts
+#EXTINF:-1 ,BeinSport 2
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/13371.ts
+#EXTINF:-1 ,BeinSport 3
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9484.ts
+#EXTINF:-1 ,NetFlix Action
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/227231.ts
+#EXTINF:-1 ,NetFlix Action 2
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/227232.ts
+#EXTINF:-1 ,NetFlix Horror
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/227235.ts
+#EXTINF:-1 ,YES SPORT 1
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/176905.ts
+#EXTINF:-1 ,YES SPORT 2
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/176906.ts
+#EXTINF:-1 ,YES SPORT 3
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/176907.ts
+#EXTINF:-1 ,YES SPORT 4
+http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/176908.ts
+#EXTINF:-1 ,BeinSport 1
+http://0011.me:2052/live/928933886921/366953965440/510.ts
+#EXTINF:-1 ,BeinSport premium 1
+http://0011.me:2052/live/928933886921/366953965440/524.ts
+#EXTINF:-1 ,BeinSport Premium  2
+http://0011.me:2052/live/928933886921/366953965440/526.ts
+#EXTINF:-1 ,BeinSport AFC 1
+http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/141868.ts
+#EXTINF:-1 ,BeinSport Xtra 1
+http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/126826.ts
+#EXTINF:-1 ,RMC Sports 1
+http://51.178.65.238:80/RMC1/index.m3u8
+#EXTINF:-1 ,RMC Sports 2
+http://51.178.65.238:80/RMC2/index.m3u8
+#EXTINF:-1 ,beINSPORTS 1 HD+
+http://2111.space:8080/live/hossam1/hossam1/42486.ts
+#EXTINF:-1 ,beINSPORTS 2 HD+
+http://2111.space:8080/live/hossam1/hossam1/42487.ts
+#EXTINF:-1 ,BeIN Sports 1 Franch
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 ,BeIN Sports 2 Franch
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 ,BeIN Sports 3 Franch
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 ,Live Sports 7
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+#EXTINF:-1 ,Freecatv
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/173160
+#EXTINF:-1 ,Eleven 2 🇵🇹
+http://venomtt.com:8000/kdcxxD1U/543545/22519
+#EXTINF:-1 ,DAZN LALIGA 🇪🇸
+http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1 ,T SPORTS Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.ts
+#EXTINF:-1 ,Sony Ten 2 (Freecatv)
+http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony Six HD (Freecatv)
+http://15.1.5.14:8082/sony-six-hd/index.m3u8
+#EXTINF:-1 ,LIVE SPOSTS 1
+http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+#EXTINF:-1 ,Live Sports-Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+#EXTINF:-1 ,Freecatv
+http://watchindia.net:8880/live/vvv/vvv/808.m3u8
 #EXTINF:-1 group-title="witv",Sky Sports Arena
 http://watchindia.net:8880/live/vvv/vvv/2095.m3u8
 #EXTINF:-1 group-title="witv",Sky Sports Golf
@@ -253,8 +512,6 @@ https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
 #EXTINF:-1 group-title="T20 World Cup",ESPN+ (backup 1)
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
-#EXTINF:-1 group-title="T20 World Cup",ESPN+ (backup 2)
-http://ys-users.com:8080/christa/christa/420913
 #EXTINF:-1 group-title="T20 World Cup",Sky Sports (backup 3)
 http://ys-users.com:8080/christa/christa/428286
 #EXTINF:-1 group-title="T20 World Cup",Willow
@@ -269,8 +526,6 @@ http://destiny4k.com:2086/live/darkside/t2z7marsRY/54369.ts
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100401
 #EXTINF:-1 group-title="T20 World Cup",ESPN (backup 4)
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2928.ts
-#EXTINF:-1 group-title="T20 World Cup",ESPN (backup 5)
-http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1644
 #EXTINF:-1 group-title="T20 World Cup",SuperSports
 http://ys-users.com:8080/christa/christa/377948
 #EXTINF:-1 group-title="T20 World Cup",SuperSports (backup 4)
@@ -449,8 +704,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 group-title="Jagobd",DW(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
-#EXTINF:-1 ,Boishakhi TV Plus
-https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i2.paste.pics/GO3P2.png",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg",Red Bull TV Sports (akamai)
@@ -779,8 +1032,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 group-title="NON BDIX" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://127.0.0.1/",Boishakhi Plus
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://127.0.0.1/",ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/OTzS5Fc.png",ATN MUSIC
@@ -1007,8 +1258,6 @@ https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 group-title="Macau" tvg-logo="https://i.postimg.cc/g0HVsJtp/TDM-Teledifusao-de-Macau-S-A-logo-1024x768.jpg",TDM Teledifusão de Macau
 http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/VL0tZYbZ/SFg3VSw.jpg",Sana Plus
-http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/s1CrkKqv/640px-Nick-svg.png",Nick German Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede448d3d50590007a4419e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/s1CrkKqv/640px-Nick-svg.png",Nick Jr US Pluto TV
