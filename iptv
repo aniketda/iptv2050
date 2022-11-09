@@ -57,8 +57,6 @@ https://tvs1.aynaott.com/bijoytv/tracks-v1a1/mono.m3u8?token=6d2300b7b78e16dca81
 https://tvs1.aynaott.com/boishakhitv/tracks-v1a1/mono.m3u8?token=040b22c0d6e3621ab8c55f0e3e0ece66b18607b0-rWbQLibFplU5iWoT-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png",BTV CHATTOGRAM
 https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8?token=4ee6c760a0028c4d23b4137b9524e2fc1ac39ee5-hx9dZPpoohhEITMF-
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png",BTV NATIONAL
-https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8?token=3ab0a153cb2dd751a0368d3f6c5d6752c12f4f28-sGm1DDwezOiWhjxv-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png",BTV WORLD
 https://tvs1.aynaott.com/btvworld/tracks-v1a1/mono.m3u8?token=40f327e114465e0d4461b4ea5bd330c6035344a4-mEW0F0K1fWHCHerm-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a6ad6ed-400c-45a2-91e0-c98e36546b6b_180x180_29254c7a-99b4-4c0a-b861-3cbebaadfcfc.png",CHANNEL 24
@@ -75,8 +73,6 @@ https://tvs2.aynaott.com/deeptotv/tracks-v1a1/index-1667563200-now.m3u8?token=18
 https://tvs1.aynaott.com/deshtv/tracks-v1a1/mono.m3u8?token=24e6bd055b6c1e559afdd3df6f89e77b8c86072a-YKM6veMO7VVIPk2y-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png",EKATTOR TV
 https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8?token=04266f47a80ed07d6311ea8eefeadb43a65e2d7d-S7LIXfpZNSAdfo4l-
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png",EKUSHEY TV
-https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8?token=f6df205e2080bfbfca9c31c16860ab651b7af5bf-n9KoACwcc8bdt6pN-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png",GAAN BANGLA
 https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8?token=677a4ad4eacf6c5389943c6d76f3968a0880be7b-s3BudGgB8ad9Llgp-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg",GAZI TV
@@ -143,16 +139,12 @@ https://tvs1.aynaott.com/ColorsBangla/index.m3u8
 https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Zee Bangla HD
 https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://172.16.50.2/assets/images/sonyaath.jpg",Sony Aath (BDIX16)
-http://15.1.5.14:8082/Sonyaath/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://172.16.50.2/assets/images/sonyaath.jpg",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.imgur.com/cvWkhfb.png",Jalsha Movies HD
 http://208.86.19.13:81/609.stream/index.m3u8
 #EXTINF:-1 group-title="ভারত বাংলা",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-#EXTINF:-1 group-title="T20 World Cup" tvg-logo="https://i.imgur.com/dl7ciIA.png",T SPORTS
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.ts
 #EXTINF:-1 group-title="Freecatv",PTV Sports
 http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Freecatv",T Sports
@@ -171,8 +163,6 @@ https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
 #EXTINF:-1 ,Ten Sports
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
-#EXTINF:-1 ,TEN Sports
-http://103.157.249.125:201/play/a041/index.m3u8
 #EXTINF:-1 ,TEN SPORTS
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.ts
 #EXTINF:-1 ,live sports 5
@@ -185,8 +175,6 @@ http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100936
 #EXTINF:-1 group-title="T20 World Cup",SuperSports
 http://ys-users.com:8080/christa/christa/377948
-#EXTINF:-1 group-title="T20 World Cup",SuperSports
-http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1440547.ts
 #EXTINF:-1 group-title="T20 World Cup",Astro Cricket (
 http://ys-users.com:8080/christa/christa/377941
 #EXTINF:-1 group-title="T20 World Cup",Fox sports
@@ -205,8 +193,6 @@ http://watchindia.net:8880/live/vvv/vvv/1070.m3u8
 http://watchindia.net:8880/live/vvv/vvv/1071.m3u8
 #EXTINF:-1 group-title="witv",Star Sports Select 1 HD 2
 http://watchindia.net:8880/live/vvv/vvv/2292.m3u8
-#EXTINF:-1 group-title="witv",Sky Sports Cricket
-http://watchindia.net:8880/live/vvv/vvv/2090.m3u8
 #EXTINF:-1 ,Sony Ten 1 HD
 http://175.107.244.52:4455/play/a01k/index.m3u8
 #EXTINF:-1 ,Star S Hin 1 HD
@@ -221,12 +207,6 @@ http://175.107.244.52:4455/play/a00t/index.m3u8
 http://175.107.244.52:4455/play/a00u/index.m3u8
 #EXTINF:-1 ,Sony Ten 2 HD
 http://175.107.244.52:4455/play/a00v/index.m3u8
-#EXTINF:-1 group-title="witv",Sky Sports Premier League
-http://watchindia.net:8880/live/vvv/vvv/2092.m3u8
-#EXTINF:-1 group-title="witv",Sky Sports Football
-http://watchindia.net:8880/live/vvv/vvv/2093.m3u8
-#EXTINF:-1 group-title="witv",Sky Sports F1
-http://watchindia.net:8880/live/vvv/vvv/2094.m3u8
 #EXTINF:-1 group-title="T20 World Cup",ESPN+ (Freecatv)
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
 #EXTINF:-1 group-title="T20 World Cup",Sky Sports (Freecatv)
@@ -259,8 +239,6 @@ http://destiny4k.com:2086/live/darkside/t2z7marsRY/54369.ts
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100401
 #EXTINF:-1 group-title="witv",Sky Sports Arena
 http://watchindia.net:8880/live/vvv/vvv/2095.m3u8
-#EXTINF:-1 group-title="witv",Sky Sports Golf
-http://watchindia.net:8880/live/vvv/vvv/2096.m3u8
 #EXTINF:-1 group-title="witv",Sony Six HD 1
 http://watchindia.net:8880/live/vvv/vvv/1763.m3u8
 #EXTINF:-1 group-title="witv",Sony Ten 3 HD
@@ -275,10 +253,6 @@ http://watchindia.net:8880/live/vvv/vvv/2145.m3u8
 http://watchindia.net:8880/live/vvv/vvv/2292.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",Sky Sports Cricket
 http://watchindia.net:8880/live/vvv/vvv/2143.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",Sky Sports Primeun League
-http://watchindia.net:8880/live/vvv/vvv/2092.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",Sky Sports Football
-http://watchindia.net:8880/live/vvv/vvv/2093.ts
 #EXTINF:-1 group-title="Sports",Free Sports
 https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
 #EXTINF:-1 ,Tennis Channel Freecatv
@@ -313,8 +287,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/4196
 #EXTINF:-1 ,BeIN Sports 2 MAX
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
-#EXTINF:-1 ,Live Football 4
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
 #EXTINF:-1 ,BT Sports 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 ,BT Sports 3
@@ -459,8 +431,6 @@ https://tvs1.aynaott.com/b4umusic/tracks-v1a1/mono.m3u8?token=3740e3db0ea4761a00
 https://tvs1.aynaott.com/BanglaTalkies/tracks-v1a1/mono.m3u8?token=c149f6bee6d75f96cb987fabff52b09f12623963-RGZzX8tOm0a3iDcJ-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8250eb1a-8fad-49c4-aa58-f4ade024f8ac_180x180_NHK.jpg",NHK WORLD JAPAN
 https://tvs1.aynaott.com/nhkworld/tracks-v1a1/mono.m3u8?token=c65ee2dad64d07e87555f2459ec00ff259830232-WQ4xnbHMwURRjaBT-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg",ZEE 24 GHANTA
-https://tvs1.aynaott.com/zee24/tracks-v1a1/mono.m3u8?token=b13a4b5b918605d8355c5243e01a757b53174c94-5B3Q89W5Y3ANvqq6-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8cf2855c-a7d9-46ca-9dfc-c7fa1cfc237d_180x180_zee-Hindhustan2.jpg",ZEE HINDUSTAN
 https://tvs1.aynaott.com/zeehindustan/tracks-v1a1/mono.m3u8?token=9ab4247061eb3a47f7a9abb8445e32ddc447ad03-8bIQkIP1t1VZa9Gf-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d60bc970-1f75-4039-b27a-2312650ff03c_180x180_zee-news.jpg",ZEE NEWS
@@ -471,8 +441,6 @@ https://tvs1.aynaott.com/aljazeera/tracks-v1a1/mono.m3u8?token=15a79e9b066be315d
 https://tvs1.aynaott.com/bbcnews/tracks-v1a1/mono.m3u8?token=993f7ab6fc8af2a42203561febc0795afc03f012-3JAyiBajhQ66Y3hs-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg",CNN
 https://tvs1.aynaott.com/cnn/tracks-v1a1/mono.m3u8?token=0478e43e5cbe550c6375f6556873299fc73f9c7e-O3KSZ28ST4jEdIRH-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3bd08a86-25fb-4456-82f4-2799ecfe181d_180x180_WD.jpg",DW NEWS
-https://tvs1.aynaott.com/dwnews/tracks-v1a1/mono.m3u8?token=f5ab863ead1bb2767128877ebdc1c160b45b4fdf-2hPW47d2jcReUrk9-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0d1bfc5d-9b7c-4137-90da-b6ada86c8db4_180x180_sky-news.jpg",SKY NEWS
 https://tvs2.aynaott.com/skynews/tracks-v1a1/mono.m3u8?token=61dd565f328c055cab77706470c70ace55a483de-buqcI6mlTdtkJvXY-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/de2d2947-554f-4c31-932f-de74ae027c80_180x180_Ten1.jpg",SONY TEN 1
@@ -651,8 +619,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://208.86.19.13:81/733.stream/index.m3u8
 #EXTINF:-1 group-title="MUSiC TV",Music INDIA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/musicindia-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 group-title="MUSiC TV",HulChul TV
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 group-title="MUSiC TV",Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-1 group-title="MUSIC TV" tvg-logo="ext",BillBoard
@@ -677,8 +643,6 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 group-title="World Network",Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,T SPORTS HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/uDSFC8j.png",SONY TEN2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 #EXTINF:-1 ,Discovery Kids
@@ -697,14 +661,10 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/18.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/48.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://tv.efiberbd.net/logo/ch24.png",CHANNEL 24
 http://xtream.efiberbd.net:8080/live/mkaua/stream/51.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://tv.efiberbd.net/logo/alpona.png",ALPONA TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/52.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://tv.efiberbd.net/logo/banglatv.png",BANGLA TV
 http://xtream.efiberbd.net:8080/live/mkaua/stream/53.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://tv.efiberbd.net/logo/satv.png",SATV
 http://xtream.efiberbd.net:8080/live/mkaua/stream/54.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="http://tv.efiberbd.net/logo/Aryd.png",ARY DIGITAL HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://tv.efiberbd.net/logo/inhztv.png",ZEE TV HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIE" tvg-logo="https://tv.efiberbd.net/logo/engst.png",SHOW TIME HD
@@ -721,8 +681,6 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/46.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/59.m3u8
 #EXTINF:-1 group-title="BD MUSIC" tvg-logo="https://tv.efiberbd.net/logo/inbbt.png",Bangla Talkies
 http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8
-#EXTINF:-1 ,BEIN SPOTS 3
-https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
 #EXTINF:-1 ,RTV
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 ,SATV(Jagobd)
@@ -969,8 +927,6 @@ http://15.1.5.10:8082/Channel-i/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://103.136.200.246/assets/images/banglatv.jpg",Bangla TV
 http://15.1.5.14:8082/bangla-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://bciptv.net/assets/images/btv.jpg",BTV
-http://15.1.5.14:8082/btv/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Banglavision
 http://15.1.5.14:8082/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi TV
@@ -1067,8 +1023,6 @@ https://tvs1.aynaott.com/bijoytv/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/boishakhitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/bn/BTV.jpg",BTV CTG
 https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/bn/BTV.jpg",BTV
-https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/bn/BTV-world.jpg",BTV World
 https://tvs1.aynaott.com/btvworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/bn/Channer-9.jpg",Channel 9
@@ -1079,8 +1033,6 @@ https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1667563200-now.m3u8
 https://tvs2.aynaott.com/deeptotv/tracks-v1a1/index-1667563200-now.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/bn/Desh.jpg",Desh TV
 https://tvs1.aynaott.com/deshtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AynaOTT" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekeshey TV
-https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/bn/GB.jpg",Gaan Bangla
 https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",GTV HD
@@ -1181,8 +1133,6 @@ https://tvs1.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index-1667566800-now.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/en/NHK.jpg",NHK World
 https://tvs1.aynaott.com/nhkworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/hindi/zee%2024.jpg",Zee 24
-https://tvs1.aynaott.com/zee24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/hindi/zee-Hindhustan2.jpg",Zee Hindustan
 https://tvs1.aynaott.com/zeehindustan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/hindi/zee-news.jpg",Zee News
@@ -1193,8 +1143,6 @@ https://tvs1.aynaott.com/aljazeera/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/bbcnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/en/cnn.jpg",CNN
 https://tvs1.aynaott.com/cnn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AynaOTT" tvg-logo="http://bciptv.net/assets/images/dw.jpg",DW News
-https://tvs1.aynaott.com/dwnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="https://www.trtworld.com/images/share-1000x500.png",TRT World
 https://tvs1.aynaott.com/trtworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="https://seeklogo.com/images/S/Sky_news-logo-1E717A73A5-seeklogo.com.png",Sky News
