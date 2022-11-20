@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV (BDIX16)
+http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
+
 #EXTINF:-1 group-title="Stream Bangla",Bangla Tv
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Stream Bangla",Duronto Tv
@@ -272,8 +276,7 @@ http://15.1.5.14:8082/Adsports1/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/en3-35/index.m3u8
 #EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 9 (BDIX16)
 http://15.1.5.14:8082/en3-36/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV (BDIX16)
-http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
+
 #EXTINF:-1 group-title="T20 World Cup",ESPN (Freecatv)
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/54369.ts
 #EXTINF:-1 group-title="witv",Sky Sports Arena
