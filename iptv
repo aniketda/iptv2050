@@ -1,7 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV (BDIX16)
+
+#EXTINF:-1 ,T Sports HD
+http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+#EXTINF:-1 ,Gtv HD
 http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
+#EXTINF:-1 ,Live Fifa 1 
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 ,Live FIFA 2
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Fifa World Cup (slow link)
+http://hez1-flu.iptvstream.site/132/index.m3u8
+#EXTINF:-1,Sport TV 1 HD 🇵🇹
+http://comag.rip:8000/50738601689735/03751643107136/66469
 
 #EXTINF:-1 group-title="Stream Bangla",Bangla Tv
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
