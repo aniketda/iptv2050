@@ -1,4 +1,20 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="World Cup🏆" tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png",Live FIFA 00
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/848.ts
+#EXTINF:-1 group-title="World Cup🏆" tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png",Live FIFA 2
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/3146.ts
+#EXTINF:-1 group-title="World Cup🏆" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg",Live FIFA 5
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/21824.ts
+#EXTINF:-1 group-title="World Cup🏆" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg",Live FIFA 7
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/3645.ts
+
+#EXTINF:-1 group-title="World Cup🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png", Live FIFA 8
+http://115319322366311939.nicene.xyz:80/play/vi1031409/2034853628/311939.ts
+
+#EXTINF:-1 group-title="World Cup🏆" tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/card/public/itv_logo_blk_2.jpg?itok=XYFN-tQ_",Live FIFA 9
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxmUX0rY6_GUu0Q_0i5Hq30Gh0lI7joJ2t3D4z9kIiTCzLwULNfG5sREnTHHV5I9AQo?ext=.ts
+
 #EXTINF:-1 ,Live Fifa 1
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 ,Live FIFA 2
