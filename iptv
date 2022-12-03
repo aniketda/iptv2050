@@ -1,36 +1,22 @@
-EXTM3U
-
+#EXTM3U
 #EXTINF:-1 ,FIFA SPORTS
 https://riddle-fifa-2022@mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp5.png",toffe sports
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-
-
-
 #EXTINF:-1 ,Live Fifa 1
 http://190.61.102.67:31589/play/a08j/index.m3u8
-
 #EXTINF:-1 ,Live Fifa 2
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 ,Live fifa 3
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-
 #EXTINF:-1 ,live fifa 4
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1 ,live fifa 5 
+#EXTINF:-1 ,live fifa 5
 http://146.59.19.1/5002/mpegts?
-
 #EXTINF:-1 ,Live Fifa 6
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 ,Live Fifa 7
 http://51.79.82.208:16461/
-
-
-#EXTINF:-1 ,Live Fifa 8
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/144.ts
-
-
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Live Fifa 02
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Live Fifa 03
@@ -49,9 +35,6 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 http://51.79.82.208:16417
 #EXTINF:-1 ,Live FIFA 6
 http://comag.rip:8000/50738601689735/03751643107136/66469
-
-
-
 #EXTINF:-1 group-title="Stream Bangla",Bangla Tv
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Stream Bangla",Independent Tv
@@ -92,52 +75,12 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg",ATN Music
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 group-title="Stream Bangla",Bangla Tv
-http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Stream Bangla",Duronto Tv
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Stream Bangla",Independent Tv
-http://208.86.19.13:81/519.stream/index.m3u8
-#EXTINF:-1 group-title="Stream Bangla",Channel 24
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Stream Bangla",Atn Islamic Tv
-http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Stream Bangla",Satv
-http://208.86.19.13:81/613.stream/index.m3u8
-#EXTINF:-1 group-title="Stream Bangla",Gaan Bangla
-http://208.86.19.13:81/612.stream/index.m3u8
-#EXTINF:-1 group-title="Stream Bangla",Mohona Tv
-http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",Jamuna TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg",Somoy News
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png",DBC News
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream_480p/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga
-http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV
-https://bd.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://www.webtvbd.com/wp-content/uploads/2021/01/Boishakhi-TV-Plus.jpg",Boishakhi Plus
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",My TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://www.ekushey-tv.com/media/common/EkusheyTVLogo.png",Ekushey TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/mohona-tv.png",Mohona Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png",SATV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png",ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png",Bangla TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png",Ananda TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg",ATN Music
-http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="http://tv.bdtype.com/uploads/tv_image/cnn-bangla.jpg",CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg",iTv
@@ -176,9 +119,6 @@ http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x15351",DBC News
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
-
-
-
 #EXTINF:-1 ,Zee Bangla HD 240P
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=250&e=.m3u8
 #EXTINF:-1 ,Zee Bangla HD 1080P
@@ -189,30 +129,8 @@ https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=600&e=.m3u8
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=400&e=.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png",SangeetBangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starjalshahd.jpg" group-title="Indian-Bangla",Star Jalsha HD
-http://103.159.4.38:8091/CH24-INBD3/index.m3u8
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/zeebanglahd.jpg" group-title="Indian-Bangla",Zee Bangla HD
-http://tv2.efiberbd.net:8080/live/mkaua/stream/5.m3u8
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonyaath.jpg" group-title="Indian-Bangla",Sony Aath
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="http://bdiptv.net/assets/images/sonyaath.jpg",Sony Aath
 http://103.159.4.38:8091/CH22-INBD1/index.m3u8
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sunbangla.jpg" group-title="Indian-Bangla",Sun Bangla
-
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/zeebanglacinema.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
-http://tv2.efiberbd.net:8080/live/mkaua/stream/10.m3u8
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/jalshamovies.jpg" group-title="Indian-Bangla",Jalsha Movies HD
-http://tv2.efiberbd.net:8080/live/mkaua/stream/12.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg" group-title="Indian-Bangla",Colors Bangla Cinema
-
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/enterr10.jpg" group-title="Indian-Bangla",Enterr 10
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian-Bangla",Colors Bangla HD
-http://tv2.efiberbd.net:8080/live/mkaua/stream/7.m3u8
-
-
-#EXTINF:-1 group-title="FIFA WORLD CUP QATAR 2022" tvg-logo="https://seeklogo.com/images/F/fifa-world-cup-qatar-2022-logo-32157477CB-seeklogo.com.png",WORLD CUP 19
-http://eu.majes-line.co/play/live.php?mac=00:1A:79:B6:B8:BF&stream=811763&extension=ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T sports HD (fiber)
-http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 ,BEIN SPORTS PREMIUM 1 HD 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1 ,BEIN SPORTS PREMIUM 2 HD 🇶🇦
@@ -325,8 +243,6 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="DIRECT-TV",ZEE CINEMA HD (IN)
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="DIRECT-TV",ZEE ACTION (IN)
-http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="DIRECT-TV",ZEE ANMOL CINEMA (IN)
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="DIRECT-TV",E24 (IN)
@@ -923,12 +839,6 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Macau" tvg-logo="https://i.postimg.cc/g0HVsJtp/TDM-Teledifusao-de-Macau-S-A-logo-1024x768.jpg",TDM Teledifusão de Macau
 http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="FIFA WORLD CUP QATAR 2022" tvg-logo="https://seeklogo.com/images/F/fifa-world-cup-qatar-2022-logo-32157477CB-seeklogo.com.png",ITV
-http://eu.majes-line.co/play/live.php?mac=00:1A:79:B6:B8:BF&stream=805277&extension=ts
-#EXTINF:-1 group-title="FIFA WORLD CUP QATAR 2022" tvg-logo="https://seeklogo.com/images/F/fifa-world-cup-qatar-2022-logo-32157477CB-seeklogo.com.png",ORF 1 HD
-http://eu.majes-line.co/play/live.php?mac=00:1A:79:B6:B8:BF&stream=805288&extension=ts
-#EXTINF:-1 group-title="FIFA WORLD CUP QATAR 2022" tvg-logo="https://seeklogo.com/images/F/fifa-world-cup-qatar-2022-logo-32157477CB-seeklogo.com.png",FOX PILDUN
-http://eu.majes-line.co/play/live.php?mac=00:1A:79:B6:B8:BF&stream=805278&extension=ts
 #EXTINF:-1 ,SPORT TV 1 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8
 #EXTINF:-1 ,DIRECTV SPORTS 🇦🇷
@@ -969,8 +879,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
 #EXTINF:-1 ,Eleven 1 HD 🇵🇹
 http://golive.yn.lt/live/bola/01.m3u8
-#EXTINF:-1 ,#EXTINF:-1 TRUE VISIONS HD
-http://w.nasvpn.xyz:8080/live/saya/saya/16586.ts
 #EXTINF:-1 ,#EXTINF:-1 TRUE VISIONS 1 HD
 http://w.nasvpn.xyz:8080/live/saya/saya/13327.ts
 #EXTINF:-1 ,#EXTINF:-1 TRUE VISIONS 3 HD
@@ -1015,14 +923,8 @@ http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5AF97E218B33DA299AACA12&profile=matroska
 #EXTINF:-1 ,SUPERSPORT 2 🇦🇱
 http://185.226.88.6:11026/live/OUT2QyrOQS8xw/UkPn4unfnR/179.ts?|User-Agent=Lavf/57.56.100
-#EXTINF:-1 ,SUPERSPORT 2 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1312.ts
 #EXTINF:-1 ,SUPERSPORT 3 🇦🇱
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116924.ts
-#EXTINF:-1 ,SUPERSPORT 3 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1319.ts
-#EXTINF:-1 ,SUPERSPORT 3 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/3638.ts
 #EXTINF:-1 ,SUPERSPORT 5 🇦🇱
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116926.ts
 #EXTINF:-1 ,RTSH Sport 🇦🇱
@@ -1051,16 +953,8 @@ http://194.163.179.246/slovenci/sport/sporttv2hd.m3u8?
 http://194.163.179.246/slovenci/sport/sporttv3hd.m3u8
 #EXTINF:-1 ,NOVA SPORTS 3 🇬🇷
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd
-#EXTINF:-1 ,Eleven Sports 1 HD 🇵🇱
-http://37.152.128.74:8085/play/a004
-#EXTINF:-1 ,Eleven Sports 2 HD 🇵🇱
-http://37.152.128.74:8085/play/a005
-#EXTINF:-1 ,Eleven Sports 3 HD 🇵🇱
-http://37.152.128.74:8085/play/a00c
 #EXTINF:-1 ,POLSAT PREMIUM 1 HD 🇵🇱
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
-#EXTINF:-1 ,CANAL+ SPORT 2 HD 🇵🇱
-http://37.152.128.74:8085/play/a002
 #EXTINF:-1 ,SPORT 1 🇮🇱
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38711
 #EXTINF:-1 ,SPORT 2 🇮🇱
