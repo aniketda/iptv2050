@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,FIFA SPORTS
-https://riddle-fifa-2022@mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp5.png",toffe sports
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+
+#EXTINF:-1 ,fifa-free 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1 ,TOFFEE 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+
 #EXTINF:-1 ,Live Fifa 1
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 ,Live Fifa 2
