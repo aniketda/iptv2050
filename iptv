@@ -1,20 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bangla TV",T-Sports
-http://208.86.19.13:81/9055.stream/index.m3u8
-#EXTINF:-1 ,fifa-free 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 ,TOFFEE 1
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
 
 #EXTINF:-1 ,Live Fifa 1
 http://190.61.102.67:31589/play/a08j/index.m3u8
+
 #EXTINF:-1 ,Live Fifa 2
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 ,Live fifa 3
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 ,live fifa 4
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1 ,live fifa 5
 http://146.59.19.1/5002/mpegts?
 #EXTINF:-1 ,Live Fifa 6
@@ -23,14 +18,10 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 http://51.79.82.208:16461/
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Live Fifa 02
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-#EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Live Fifa 03
-http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
 #EXTINF:-1 group-title="Xtream {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",live fifa 04
 http://fancytv.ddns.net:25461/fancynet/fancytv/1758
 #EXTINF:-1 group-title="World Cup🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png",Live FIFA 8
 http://115319322366311939.nicene.xyz:80/play/vi1031409/2034853628/311939.ts
-#EXTINF:-1 group-title="World Cup🏆" tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/card/public/itv_logo_blk_2.jpg?itok=XYFN-tQ_",Live FIFA 9
-http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxmUX0rY6_GUu0Q_0i5Hq30Gh0lI7joJ2t3D4z9kIiTCzLwULNfG5sREnTHHV5I9AQo?ext=.ts
 #EXTINF:-1 ,Live Fifa 1
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 ,Live FIFA 2
@@ -133,8 +124,6 @@ https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=600&e=.m3u8
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=400&e=.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png",SangeetBangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="http://bdiptv.net/assets/images/sonyaath.jpg",Sony Aath
-http://103.159.4.38:8091/CH22-INBD1/index.m3u8
 #EXTINF:-1 ,BEIN SPORTS PREMIUM 1 HD 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1 ,BEIN SPORTS PREMIUM 2 HD 🇶🇦
@@ -275,8 +264,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 http://208.86.19.13:81/692.stream/index.m3u8
 #EXTINF:-1 group-title="Freecatv",EXpress PK
 http://208.86.19.13:81/643.stream/index.m3u8
-#EXTINF:-1 group-title="TATA SKY",Show-Time HD 4K
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="TATA SKY",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="TATA SKY",B4u KADAK
@@ -371,14 +358,8 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="BD3" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery HD(BD3)
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
-#EXTINF:-1 group-title="BD3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature(BD)
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="BD3" tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",Nasa TV(BD3)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",Pogo(BD)
-http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Jagobd",DW(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 ,TV
 https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/5OzuEyR.png",History Channel
@@ -409,8 +390,6 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH",Crime Time
-https://crimetimebamca-roku.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 group-title="ENGLISH",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",Law and Crime Network
@@ -473,8 +452,6 @@ http://175.107.244.52:4455/play/a03i/index.m3u8
 http://175.107.244.52:4455/play/a026/index.m3u8
 #EXTINF:-1 ,SIX HD
 http://175.107.244.52:4455/play/a01l/index.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png",NRB TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 ,SONIC- Rs 2
 http://175.107.244.52:4455/play/a03h/index.m3u8
 #EXTINF:-1 ,STAR MOV HD
@@ -541,8 +518,6 @@ http://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/vJrMdNx/CGTN.jpg",CGTN
 http://iptv.prosto.tv:7000/ch84/video.m3u8
-#EXTINF:-1 group-title="English Documentry" tvg-logo="https://i.imgur.com/MCyL9wX.png",National Geographic Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/rDkxPUU.png",Arirang Korea
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/30tzHYj.png",NDTV 24x7
@@ -697,8 +672,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.doyeltv.com/wp-content/uploads/2021/12/Doyel-TV-Logo-1-212x300.png",DOYEL TV
 https://tempskyview.jagobd.com:441/live-orgin/doyeltv.stream/chunks.m3u8
-#EXTINF:-1 ,নাগরিক
-https://cdn.appv.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 ,FX
 http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1 group-title="South Indian" tvg-logo="https://i.postimg.cc/TPHShbww/TZceYby.png",One TV
@@ -815,8 +788,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/uofhcTE.jpg",BBC Lifestyle
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/4duWidg.png",Nat Geo Dubai
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-1 group-title="ENGLISH",Arre
@@ -907,8 +878,6 @@ http://170.83.242.155:5350/play/a014
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 ,WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 ,TUDN 🇲🇽
-http://190.61.102.67:31589/play/a08o/index.m3u8
 #EXTINF:-1 ,TUDN 🇲🇽
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 #EXTINF:-1 ,UNIVISION 🇲🇽
@@ -1077,10 +1046,6 @@ http://190.60.39.62:8000/play/a03c
 http://190.60.39.62:8000/play/a02e
 #EXTINF:-1 ,Fox Sports 3
 http://190.60.39.62:8000/play/a02f
-#EXTINF:-1 ,TYC SPORTS PLAY 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
-#EXTINF:-1 ,TYC SPORTS PLAY 🇦🇷
-https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
 #EXTINF:-1 ,Star Sports S 1 HD
 http://175.107.244.52:4455/play/a00t/index.m3u8
 #EXTINF:-1 ,Star Sports S 2 HD
