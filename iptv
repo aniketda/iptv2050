@@ -2,6 +2,28 @@
 
 #EXTINF:-1 ,TOFFEE 1
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", Fifa 4 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", Fifa HD 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", Fifa 6
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_180.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", Fifa 7
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", Fifa 8
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_640.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", Fifa 9 
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/13193/logo/240x240/mobile_logo_883660001669671539.png" group-title="Paid-2", Fifa 10
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", Fifa 140
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_180.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_339680001669671150.png" group-title="Free-1", Fifa low 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_360.m3u8
+#EXTINF:-1 tvg-name="SPORTS18 1 HD✴(ENG)" tvg-logo="https://www.fifplay.com/img/public/2022-fifa-world-cup-logo.png" group-title="FIFA WORLD CUP 2022",SPORTS18 1 HD✴(ENG)
+http://tv.univisionlive.net:8880/live/asif684/84163684/4722.m3u8
+
 
 #EXTINF:-1 ,Live Fifa 1
 http://190.61.102.67:31589/play/a08j/index.m3u8
