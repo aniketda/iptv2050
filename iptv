@@ -1,25 +1,48 @@
 #EXTM3U
 
 
-
+#EXTINF:-1,Bein MAX 5 (1080p)
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX5-H265/video.m3u8
 #EXTINF:-1 ,T Sports Official
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 ,Japan TV
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg",Live-8
-http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg",Live-9
-http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg",Live-10
-http://tv.maguraplex.net:8000/live/tyc/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg",Live-11
-http://103.143.235.50/Gazi-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg",Live-12
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",TSports (1080p)
-http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
-#EXTINF:-1 group-title="CTGTV {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",GaziTV (1080p)
-http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
+#EXTINF:-1 ,TSports
+http://103.102.27.173/live/tvfeed1002/index.m3u8
+#EXTINF:-1 ,GaziTV
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 ,Freecatv Euro.Sports 2
+http://175.107.244.52:4457/play/a06w/index.m3u8
+#EXTINF:-1 ,Freecatv Euro.Sports 1
+http://175.107.244.52:4457/play/a06v/index.m3u8
+#EXTINF:-1 ,Freecatv KSA.Sports 4 HD
+http://175.107.244.52:4457/play/a06d/index.m3u8
+#EXTINF:-1 ,Freecatv KSA.Sports 3 HD
+http://175.107.244.52:4457/play/a06c/index.m3u8
+#EXTINF:-1 ,Freecatv KSA.Sports 2 HD
+http://175.107.244.52:4457/play/a06b/index.m3u8
+#EXTINF:-1 ,Freecatv KSA.Sports 1 HD
+http://175.107.244.52:4457/play/a06a/index.m3u8
+#EXTINF:-1 ,Freecatv PTV.SPORTS HD
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 ,Freecatv World cup
+http://172.16.29.242:8080/fnet/live1/index.m3u8
+#EXTINF:-1 ,Freecatv beINSPORTS PREMIUM 3
+http://185.53.88.103:88/live/226448369414368/226448369414368/5194.m3u
+#EXTINF:-1 ,Freecatv beINSPORTS PREMIUM 2
+http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
+#EXTINF:-1 ,Freecatv beINSPORTS PREMIUM 1
+http://185.53.88.103:88/live/226448369414368/226448369414368/5192.m3u
+#EXTINF:-1 ,Freecatv One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 ,Freecatv Match TV
+http://194.143.148.28/MatchHD/mono.m3u8
+#EXTINF:-1 group-title="TATA SKY",Star Sports 3
+http://172.16.29.250/hls/starsports3.m3u8
+#EXTINF:-1 ,Sports 2
+http://103.102.27.173/live/tvfeed1003/index.m3u8
+#EXTINF:-1 ,Sports 3
+http://103.102.27.173/live/tvfeed1004/index.m3u8
 
 
 
