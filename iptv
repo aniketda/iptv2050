@@ -108,29 +108,14 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 https://bds.jaagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350",Star Jalsha
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2281.m3u8
-#EXTINF:-1 ,Star Jalsa sd
-http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHNT07BV/Akash-Aath-Logo.jpg",Akash Aath
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2295.ts
 
-#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703",Jalsha Movies SD
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2282.m3u8
-#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png",Sun Bangla
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225833&extension=ts&play_token=ueIOfcJ2dB
-#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png",Zee 24 Ghanta
-https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
-#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg",Enter 10 Bangla 2
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=155784&extension=ts&play_token=RJs6nRPzUU
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/PrWrJTPW/58Mkc4.png",Amar bangla
-http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/4N2J9T1k/HVZHZGl.png",Colors Bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/4N2J9T1k/HVZHZGl.png",Colors Bangla HD
-https://tv.googledrivelinks.com/live.php?c=Colors_Bengali_HD&q=1200&e=.m3u8
-#EXTINF:-1 ,Sananda Bangla
-http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
-#EXTINF:-1 ,ENTER10 MOVIES
-https://tv.freeseries.eu.org/live.php?c=Enterr_10&q=1200&e=junk.m3u8
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA  zsdv
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862988&extension=ts&play_token=VRW07gXmnZ
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA  qwx
+http://bestsave.ltd:80/live/994422/224499/190869.ts
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA  fgqwx
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225777&extension=ts&play_token=UKg7PHsC06
 
 #EXTINF:-1 ,Cartoon Network English
 http://iptv.prosto.tv:7000/ch207/video.m3u8
@@ -188,6 +173,57 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 
 
 
+
+#EXTINF:-1 ,&pictures HD
+http://180.178.188.152:8000/play/a017
+#EXTINF:-1 group-title="INDIA",B4U MOVIES
+http://208.86.19.13:81/636.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",BollywoodHD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+#EXTINF:-1 group-title="INDIA",BollywoodClassic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
+http://208.86.19.13:81/7011.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD
+http://180.178.188.152:8000/play/a00z
+#EXTINF:-1 ,Star GOLD HD
+http://180.178.188.152:8000/play/a012
+#EXTINF:-1 ,Star Gold Sel HD
+http://180.178.188.152:8000/play/a014
+#EXTINF:-1 ,&tv HD
+http://180.178.188.152:8000/play/a01u
+#EXTINF:-1 ,Star Gold 2
+http://180.178.188.152:8000/play/a01q
+#EXTINF:-1 group-title="INDIA",STAR GOLD HD
+http://208.86.19.13:81/7177.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",DREAMZ
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 group-title="INDIA",UTV MOVIES
+http://208.86.19.13:81/7233.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",GOLDMINES
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZING
+http://208.86.19.13:81/634.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",COLOR
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="INDIA",BHARATI
+http://208.86.19.13:81/677.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",EXPRESS
+http://208.86.19.13:81/643.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",STAR PLUS
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 ,Discovery HD
 http://175.107.244.52:4455/play/a01v/index.m3u8
