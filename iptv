@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,T Sports
-http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=pro---sbdt____bd
-#EXTINF:-1 ,GTV
-http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=pro---sbdt____bd
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg",Anando TV
@@ -17,8 +13,6 @@ http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/htMScv6w/Newspaper-Logo.png",Deshe Bideshe
 http://iptvbd.jagobd.com:1931/live-orgin/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/wBXp2pkd/GKBkm2e.png",Deshi TV
-http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png",Independent
@@ -123,8 +117,6 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",Law and Crime Network
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,MTV 90s
-http://85.17.17.249/mtv_rocks/index.m3u8
 #EXTINF:-1 group-title="Music",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="BANGLA",MEEM TV
@@ -189,8 +181,6 @@ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.liv
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2267.ts
 #EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/8z75y5sD/download-15.png",Hadi TV English and Urdu
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
-#EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/1znY2sZW/Masala-TV.png",Hum Masala
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/1023.ts
 #EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/KjtnMyXT/image.png",Hum TV
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/1022.ts
 #EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.postimg.cc/1znY2sZW/Masala-TV.png",Hum Masala TV
@@ -227,8 +217,6 @@ https://circle-roku.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/Sx9KT1fk/nBS6vFd.png",CNN
 http://ip2121.com:8081/live/cnn/playlist.m3u8
-#EXTINF:-1 group-title="INDIA",DREAMZ
-http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
 #EXTINF:-1 ,TLC
 http://190.83.119.67:8000/play/a0sd/index.m3u8
 #EXTINF:-1 ,History HD
@@ -397,8 +385,6 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg",Red Bull TV Sports (akamai)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://dugdugilive.com/img/channels/bbcnews.png",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://12.1.1.7/assets/images/dw.jpg",DW (akamai)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World (akamai)
@@ -541,10 +527,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
 #EXTINF:-1 ,Eleven 1 HD 🇵🇹
 http://golive.yn.lt/live/bola/01.m3u8
-#EXTINF:-1 ,#EXTINF:-1 TRUE VISIONS 1 HD
-http://w.nasvpn.xyz:8080/live/saya/saya/13327.ts
-#EXTINF:-1 ,#EXTINF:-1 TRUE VISIONS 3 HD
-http://w.nasvpn.xyz:8080/live/saya/saya/13328.ts
 #EXTINF:-1 ,NOVA Sport 3 🇨🇿
 http://84.42.140.147:8890/hdmi
 #EXTINF:-1 ,ESPN 2 🇦🇷
@@ -565,10 +547,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 #EXTINF:-1 ,UNIVISION 🇲🇽
 http://190.61.102.67:8000/play/a05d
-#EXTINF:-1 ,Eleven Sports Pro League 1 🇫🇷
-http://37.235.38.139:4000/play/a0c7
-#EXTINF:-1 ,INFOSPORT+ 🇫🇷
-http://37.235.38.139:4000/play/a00n
 #EXTINF:-1 ,beIN Sports 1 English HD 🇬🇧
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 #EXTINF:-1 ,BEIN SPORT 3 🇬🇧
@@ -638,27 +616,17 @@ http://181.176.148.142:8000/play/a02d
 #EXTINF:-1 ,ESPN 🇦🇷
 http://200.110.169.237:8202/play/a01n
 #EXTINF:-1 ,ESPN 🇨🇴
-http://201.219.223.101:46000/play/a03f
-#EXTINF:-1 ,ESPN 🇨🇴
 http://200.110.169.237:8202/play/a03h
 #EXTINF:-1 ,ESPN 2 Latin 🇦🇷
 http://200.110.169.237:8202/play/a01m
 #EXTINF:-1 ,ESPN 2 🇨🇱
-http://201.219.223.101:46000/play/a015
-#EXTINF:-1 ,ESPN 2 🇨🇱
 http://200.110.169.237:8202/play/a031
 #EXTINF:-1 ,ESPN 3 🇨🇱
 http://200.110.169.237:8202/play/a02f
-#EXTINF:-1 ,ESPN 3 🇨🇱
-http://201.219.223.101:46000/play/a02a
 #EXTINF:-1 ,Fox Sports 2 🇦🇷
 http://200.110.169.237:8202/play/a01w
-#EXTINF:-1 ,Fox Sports 2 🇦🇷
-http://201.219.223.101:46000/play/a03s
 #EXTINF:-1 ,Fox Sports 3 🇦🇷
 http://200.110.169.237:8202/play/a01x
-#EXTINF:-1 ,Fox Sports 3 🇦🇷
-http://201.219.223.101:46000/play/a03t
 #EXTINF:-1 ,ESPN
 http://190.60.39.62:8000/play/a01v
 #EXTINF:-1 ,ESPN 2
