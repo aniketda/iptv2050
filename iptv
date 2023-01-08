@@ -7,8 +7,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/MG5jL6dW/image.jpg",CNN Bangla
-http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png",DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/htMScv6w/Newspaper-Logo.png",Deshe Bideshe
@@ -17,8 +16,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/deshebideshe.stream/chunks.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png",Independent
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/gcD7mQ2r/unnamed.png",itv
-http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 ,#http://208.86.19.13:81/693.stream/index.m3u8
