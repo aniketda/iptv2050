@@ -1,4 +1,15 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",T sports
+http://103.213.238.70/TSportsHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Nagorik Bpl
+http://15.1.5.10:8082/nagorik-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Nagorik BPL 2
+http://103.213.238.70/NagorikTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",NAGORIK BPL 3
+http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg",Anando TV
@@ -7,7 +18,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png",ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png",DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/htMScv6w/Newspaper-Logo.png",Deshe Bideshe
@@ -16,7 +26,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/deshebideshe.stream/chunks.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png",Independent
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/02V56dBr/ds3aThu.jpg",Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 ,#http://208.86.19.13:81/693.stream/index.m3u8
@@ -191,8 +200,6 @@ https://streamone.simpaisa.com:8443/pitvlive1/mehran.smil/playlist.m3u8
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg",&flix HD
 http://appleiptv.com:80/7863/7863/42960
-#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/WbTNrLJK/download-6.png",&prive HD
-http://appleiptv.com:80/7863/7863/42961
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/tCTgzzPr/1200px-ABC-News-logo-2021-svg.png",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/XYbBnxq5/download-10.jpg",AMG TV
@@ -351,8 +358,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/kgM2tLSs/mvgRAZw.jpg",Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/RFPqh28b/image.jpg",PTV Sports HD
-http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.gifyu.com/images/image3110a988af3201d9.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/wvwFBbFW/SONY-Sports-Ten1-HD.png",Sony Ten 1
@@ -371,8 +376,6 @@ https://tv.freeseries.eu.org/live.php?c=Ten3_HD&q=800&e=.m3u8
 https://tv.freeseries.eu.org/live.php?c=Sony_Six_SD&q=800&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/MTCMt6rh/Sony-Sports-Ten-5.png",Sony Ten 5 HD
 https://tv.freeseries.eu.org/live.php?c=Six_HD&q=800&e=.m3u8
-#EXTINF:-1 ,Sky Sports Cricket
-https://11live02.akamaized.net/FTX2_WILLOW/playlist.m3u8
 #EXTINF:-1 ,SPORT PREMIUM 🇨🇿
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 ,X SPORT 🇷🇺
@@ -587,8 +590,6 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 #EXTINF:-1 ,TVRI SPORTS INDONESIA 🇮🇩
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 ,TIGO SPORTS 🇧🇴
-http://45.228.234.185:8000/play/a02v/index.m3u8
 #EXTINF:-1 ,PRENDETV LIGA MX 🇲🇽
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 ,GOL TV 🇪🇨
@@ -613,18 +614,8 @@ https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 http://181.176.148.142:8000/play/a02d
 #EXTINF:-1 ,ESPN 🇦🇷
 http://200.110.169.237:8202/play/a01n
-#EXTINF:-1 ,ESPN 🇨🇴
-http://200.110.169.237:8202/play/a03h
-#EXTINF:-1 ,ESPN 2 Latin 🇦🇷
-http://200.110.169.237:8202/play/a01m
 #EXTINF:-1 ,ESPN 2 🇨🇱
 http://200.110.169.237:8202/play/a031
-#EXTINF:-1 ,ESPN 3 🇨🇱
-http://200.110.169.237:8202/play/a02f
-#EXTINF:-1 ,Fox Sports 2 🇦🇷
-http://200.110.169.237:8202/play/a01w
-#EXTINF:-1 ,Fox Sports 3 🇦🇷
-http://200.110.169.237:8202/play/a01x
 #EXTINF:-1 ,ESPN
 http://190.60.39.62:8000/play/a01v
 #EXTINF:-1 ,ESPN 2
