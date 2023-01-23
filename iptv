@@ -49,7 +49,23 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
 
+#EXTINF:-1 ,STAR JALSHA
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 
+
+#EXTINF:-1 ,Zee Bangla
+http://102.222.232.18:9981/stream/channelid/633358552?ticket=650EBB054B7A482ED7B000F8FC9AD16C7E1271F2&profile=matroska
+
+#EXTINF:-1 , colors bangla
+http://102.222.232.18:9981/stream/channelid/1890795641?ticket=164467976C7B470DF3781F5C8735EF925FB84D74&profile=matroska
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png",Sun Bangla
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225833&extension=ts&play_token=ueIOfcJ2dB
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="http://tsportstv.com/live-streaming/images/1200px-Sony_Aath_logo.svg.png",Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg",Enter 10 Bangla 2
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=155784&extension=ts&play_token=RJs6nRPzUU
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg",ZEE BANGLA
 http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=c3d67392b21f0f5c8739a559653f08ca66089601-591d0637d6e4204afa38b7b10c746cbb-1672090184-1672079384
 #EXTINF:-1  tvg-logo="http://15.1.5.14/assets/images/zeebanglahd.jpg",ZEE_BANGLA_HD
