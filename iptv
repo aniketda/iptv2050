@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+#EXTINF:-1 ,T•SPORTS.
+http://starshare.live:8080/live/775577/775577/130714.ts
+
+#EXTINF:-1 ,T sports BD HD
+http://starshare.org:8080/live/gxc733/sxk877/130714.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png",BTV
 http://15.1.5.22:8082/btv/tracks-v1a1/mono.m3u8?token=f2c448b7ecf543fca9cd40e25689f75171e7c475-e490ba6955cd49d5951a30145bd5f633-1672090492-167207969
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg",BTV World
