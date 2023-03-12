@@ -1,12 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@UNITED_KINGDOM√SPORTS⚽",SkySports•Cricket
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/269
-#EXTINF:-1 ,T•SPORTS.
-http://starshare.live:8080/live/775577/775577/130714.ts
 
-#EXTINF:-1 ,T sports BD HD
-http://starshare.org:8080/live/gxc733/sxk877/130714.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
+http://103.141.2.37:25461/web/web/586
+
+
+#EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
+http://103.141.2.37:25461/web/web/592
+
+
+
+#EXTINF:-1 ,T SPORTS HD
+https://musajeeb.online/T-Sports/tracks-v1a1/mono.m3u8?token=aivalona
+
 
 
 
