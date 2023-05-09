@@ -192,7 +192,67 @@ http://208.86.19.13:81/7022.stream/index.m3u8
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 ,SONY MAX2
 http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png",Sony TV HD(Sony Liv)
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",Sony Marathi(Sony Liv)
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:-1 group-title="BCIPTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg",Sony Sab(BDCIPTV)
+http://15.1.5.14:8082/SONY-SUB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg",Sony Sab(Sony Liv)
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 
+#EXTINF:-1 group-title="Jio TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png",Colors(Jio TV)
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="BCIPTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV(BCIPTV)
+http://15.1.5.14:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max HD(Sony Liv)
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 group-title="BCIPTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max HD(BCIPTV)
+http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max(Sony Liv)
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max(BD)
+http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg",Sony Max 2(BD)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg",Sony Max 2(Sony Liv)
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 group-title="Sony Liv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg",Sony Wah(Sony Liv)
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 group-title="BCIPTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",Zee Cinema(BCIPTV)
+http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",Zee Cinema(BD)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",Zee Action(BD)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg",Zee Anmol Cinema(BD)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
+#EXTINF:-1 group-title="BCIPTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold(BCIPTV)
+http://15.1.5.10:8082/star-gold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold(BD)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png",Star Gold Thrills(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png",Star Gold Thrills(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png",Star Gold Romance(BD)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg",Star Gold Select(BD)
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png",And Pictures HD(BD)
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 group-title="BD",DHINCHAAK 2 (BD)
+https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8
+#EXTINF:-1 group-title="BD",Goldmines(BD)
+https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
+#EXTINF:-1 group-title="BD",Goldmines(BD)
+https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
+#EXTINF:-1 group-title="BD",Cinama TV (BD)
+https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
+#EXTINF:-1 group-title="BD",B4U Movies IN (BD)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="BD",B4U Movies UK (BD)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="Hindi Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png",Zee TV HD
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18ocfAEpyrWXZypFppkvr00A
 #EXTINF:-1 group-title="Hindi Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png",Star Gold
