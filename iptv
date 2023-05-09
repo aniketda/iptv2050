@@ -1,4 +1,19 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Live Sports IPL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Live Sports IPL 7
+http://15.1.5.22:8082/DESH-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Live Sports IPL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Live Sports IPL 9
+http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports IPL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Live Sports IPL 10
+http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports IPL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Live Sports IPL 13
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 28
+http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Channel I(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,Maasranga TV(BD2)
