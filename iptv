@@ -1,4 +1,16 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Live Sports IPL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Live Sports IPL 1 Hindi FHD
+http://103.190.35.2:8082/T-Sports/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 group-title="Live Sports IPL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Live Sports IPL 7
+http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports IPL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Live Sports IPL 8
+http://103.102.27.173/live/tvfeed1004/index.m3u8
+#EXTINF:-1 group-title="Live Sports IPL" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",Live Sports IPL 10
+http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Bangla Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452803/793185111.png",Channel I
 http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308216.png",Channel 24
