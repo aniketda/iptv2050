@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",G Tv
+http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 ,BANGLA TV
 http://bd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
