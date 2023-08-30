@@ -1331,6 +1331,8 @@ https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
 #EXTINF:-1 ,Punjabi TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 ,SWAGJATT DESI MUSIX TV
+https://ssh101.bozztv.com/ssh101/swagjatt/playlist.m3u8
 #EXTINF:-1 ,Geo Kahani (360p)
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 ,PNN News (720p)
