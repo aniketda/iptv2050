@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",ASIA CUP HD
-https://103.scplayer.cyou:8088/stream/lizata1/playlist.m3u8?id=43662&pk=5b79a7b316490e827609d65dbb556fdedccd50586610aa619fbd300a647a22b2
+http://15.1.5.18:8082/1LIVE/tracks-v1a1/mono.m3u8?token=0d3eb802b292a0c2bfa02dff3c53ec796199a5d3-983b333eb4e76e92b03e9a4b21272546-1694007372-1693996572
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",ASIA CUP HD2
 http://15.1.5.14:8082/PTV/tracks-v1a1/mono.m3u8?token=d309aa2ac1b15f1f0248aa4966ffd0017f38a8c8-087f2e20b4163a421fa55dbec7ece2a2-1694007256-1693996456
 #EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD
