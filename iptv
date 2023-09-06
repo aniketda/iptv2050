@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,Asia Cup 2023 DD Sports
-http://cpk-1.asu.lol:8080/ind_ddsports/tracks-v1a1/mono.m3u8?token=bynishad
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",ASIA CUP HD
+https://103.scplayer.cyou:8088/stream/lizata1/playlist.m3u8?vidictid=1960613776&id=43662&pk=10fd7aae67b9ef03af6370d9eafb11aee7ffbca54484ca8a9691c58dfdc0cf11
 #EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD
 http://14.102.123.50:4000/play/a0hm
 #EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD Hindi
