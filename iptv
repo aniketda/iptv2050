@@ -1,19 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",ASIA CUP HD
-http://15.1.1.34:8282/1LIVE/tracks-v1a1/mono.m3u8?token=6f130f9c4f533045ab3059bd2b947342ae4d4e74-9d9bad54a9d645ff7d7d1c1212b2c2ce-1694018218-1694007418
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",ASIA CUP HD2
-http://15.1.1.38:8282/PTV/tracks-v1a1/mono.m3u8?token=66d7b6b3bb794fd177609da6b2ae6ce40be03c5e-0e28bc623b2f702556f7a98fa88235cf-1694018098-1694007298
 #EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD
 http://14.102.123.50:4000/play/a0hm
 #EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD Hindi
 http://14.102.123.50:4000/play/a041
-#EXTINF:-1 ,Asia Cup 2023 Ten Sports PK
-http://pakin2.worldtvip.co:9090/ind2_ten_sports_pk/tracks-v1a1/mono.m3u8?token=bynishad
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",T SPORTS
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",Live Sports Asia Cup 2023
-http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",STAR SPORTS HD 1
 http://103.162.136.103:25461/live/FAH/fah/218.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",TEN SPORTS
@@ -118,8 +109,6 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
 #EXTINF:-1 ,EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,HappyKids Junior
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 ,BOOMERANG
@@ -182,8 +171,6 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 ,Nambikkai TV (576p)
 https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
-#EXTINF:-1 ,Namdhari (404p) [Not 24/7]
-https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE UK
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
 #EXTINF:-1 ,SKY SPORTS FOOTBALL UK
@@ -284,7 +271,5 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 http://144.217.70.181:9587/hin2/SONYMAXHD/playlist.m3u8?token=test
 #EXTINF:-1 ,Red Bull TV Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 ,B4TV1
-http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 ,B4TV3
 http://b4tv.live/b4tv/b4tv/3.m3u8
