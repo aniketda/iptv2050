@@ -1,4 +1,23 @@
 #EXTM3U
+
+#EXTINF:-1 ,ASIA CUP HD
+http://15.1.1.34:8282/1LIVE/tracks-v1a1/mono.m3u8?token=c4b3c05e55c36e4afcae127c5c606e0d94812208-82977c2e4beb938b5424a7f6926a8246-1694260367-1694249567
+
+#EXTINF:-1 ,ASIA CUP HD 2
+http://15.1.1.38:8282/PTV/tracks-v1a1/mono.m3u8?token=d2ea8cf7161d60990d35a445f8b56f7258de6eec-68cd104a6c40db8a5555ec078b1db220-1694260526-1694249726
+
+#EXTINF:-1 ,ASIA CUP HD 3
+http://15.1.1.38:8282/STAR-SPORTS-3/tracks-v1a1/mono.m3u8?token=35a35257009f0636d58b32436663dc9bad3a6f12-a5b6df92544ffe5d33bedde1b6cbc39a-1694260674-1694249874
+
+#EXTINF:-1 ,ASIA CUP HD 4
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,ASIA CUP HD
+https://tvs1.aynaott.com/sspts1/tracks-v1/mono.m3u8?hdnts=st=1694250517~exp=1694293717~acl=/*~data=103.120.223.98-WEB~hmac=31621c2bf710acab74fc17ba9f1b6e459a30543f811d3f923637885a3fae6ab1
+
+#EXTINF:-1 ,ASIA CUP HD
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1694250574~exp=1694293774~acl=/*~data=103.120.223.98-WEB~hmac=d0478950ee120d237c84ec99bd11faa7c472f76fc32e10b268597a45ce697be0
+
 #EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD
 http://14.102.123.50:4000/play/a0hm
 #EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD Hindi
