@@ -1,18 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 ,ASIA CUP HD
-http://15.1.1.34:8282/1LIVE/tracks-v1a1/mono.m3u8?token=1f6b583e3add590742d1455dd015b49bafbfd86f-77547afc9b773c138db3c9694331aa93-1694349967-1694339167
+http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8?token=b5a0d03c951cb890d5bc0c326b5dec2beacd5af6-7ae172fc727f471848c41b92c976d785-1694355824-1694345024
 #EXTINF:-1 ,ASIA CUP HD 2
-http://15.1.1.34:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=2871d03d6b66ce31347c76246e63e8b84e6ca33a-dae8197c648b918ad33a520079ac4cc0-1694350016-1694339216
+http://15.1.1.34:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=9f41637aca8f784fbe46b0c41b3251b88accfca4-69ac5f08e2951ed8650fed5c8d128fcd-1694356109-1694345309
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 7 (T Sports Apps)
 https://live.tsports.com/mobile_hls/tsports_live/index.m3u8
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",Live Sports Asia Cup 2023
-http://103.162.136.103:25461/live/FAH/fah/123.m3u8
+http://15.1.1.38:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=9bfbcb974d41114a7407758c50a0347e156992f2-94aa8c87397c14782002efa4b3c5e815-1694355960-1694345160
 
-#EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD
-http://14.102.123.50:4000/play/a0hm
+#EXTINF:-1 ,Asia Cup 2023 Star Sports 1 H
+http://15.1.1.38:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=14a236125d9224b62fcd044fb62bda77f707b585-ed82db7e6d1aed0cbbfccacc047bf900-1694356185-1694345385
+
 #EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD Hindi
 http://14.102.123.50:4000/play/a041
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",T SPORTS
