@@ -1,19 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 ,ASIA CUP HD
-http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8?token=7583bae9c5810acbc0224bb701e4e5a908d68810-93b200201e04174bd6f911dfa3fe0707-1694271660-1694260860
+http://15.1.1.34:8282/1LIVE/tracks-v1a1/mono.m3u8?token=1f6b583e3add590742d1455dd015b49bafbfd86f-77547afc9b773c138db3c9694331aa93-1694349967-1694339167
 #EXTINF:-1 ,ASIA CUP HD 2
-http://15.1.1.34:8282/PTV/tracks-v1a1/mono.m3u8?token=716179985c1e33ac22b40fe708f96e68e1588929-4dd920c53735e89caa0bf52e8720a4b6-1694271913-1694261113
+http://15.1.1.34:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=2871d03d6b66ce31347c76246e63e8b84e6ca33a-dae8197c648b918ad33a520079ac4cc0-1694350016-1694339216
 
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 7 (T Sports Apps)
+https://live.tsports.com/mobile_hls/tsports_live/index.m3u8
 
-#EXTINF:-1 ,ASIA CUP HD 4
-https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,ASIA CUP HD
-https://tvs1.aynaott.com/sspts1/tracks-v1/mono.m3u8?hdnts=st=1694250517~exp=1694293717~acl=/*~data=103.120.223.98-WEB~hmac=31621c2bf710acab74fc17ba9f1b6e459a30543f811d3f923637885a3fae6ab1
-
-#EXTINF:-1 ,ASIA CUP HD
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1694250574~exp=1694293774~acl=/*~data=103.120.223.98-WEB~hmac=d0478950ee120d237c84ec99bd11faa7c472f76fc32e10b268597a45ce697be0
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",Live Sports Asia Cup 2023
+http://103.162.136.103:25461/live/FAH/fah/123.m3u8
 
 #EXTINF:-1 ,Asia Cup 2023 Star Sports 1 HD
 http://14.102.123.50:4000/play/a0hm
@@ -25,12 +21,9 @@ https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 http://103.162.136.103:25461/live/FAH/fah/218.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",TEN SPORTS
 http://103.162.136.103:25461/live/FAH/fah/121.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",Live Sports Asia Cup 2023
-http://103.162.136.103:25461/live/FAH/fah/123.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",Live Sports Asia Cup 2023
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 7 (T Sports Apps)
-https://live.tsports.com/mobile_hls/tsports_live/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 7B (T Sports Apps)
 https://live.tsports.com/mobile_hls/tsports_live_3/auto.m3u8
 #EXTINF:-1 ,BANGLA TV
