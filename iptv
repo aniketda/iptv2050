@@ -1,10 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 ,ASIA CUP HD
-http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8?token=b5a0d03c951cb890d5bc0c326b5dec2beacd5af6-7ae172fc727f471848c41b92c976d785-1694355824-1694345024
+http://15.1.1.38:8282/STAR-SPORTS-3/tracks-v1a1/mono.m3u8?token=baf9cccea196d00c5b658a6ea9e893f09002f43c-445d5c69276df5d6b6a70b4c3391f709-1694361699-1694350899
 #EXTINF:-1 ,ASIA CUP HD 2
-http://15.1.1.34:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=9f41637aca8f784fbe46b0c41b3251b88accfca4-69ac5f08e2951ed8650fed5c8d128fcd-1694356109-1694345309
-
+http://15.1.1.34:8282/STAR-SPORTS-3/tracks-v1a1/mono.m3u8?token=7e94f3eee6250e9bad9305b8e30cdcdc3ec98ae8-fb6bfe802968f9e36a4f0dfaab3c7df0-1694361938-1694351138
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 7 (T Sports Apps)
 https://live.tsports.com/mobile_hls/tsports_live/index.m3u8
 
