@@ -1,38 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1 ,ASIA CUP HD
-http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8?token=1e0486cfb0d908c90e8622b51ccb48e12d5e5d53-70d68d05c114d6f8ea3f397fad7f0c84-1694443982-1694433182
-
-#EXTINF:-1 ,ASIA CUP HD 2
-http://15.1.1.34:8282/STAR-SPORTS-3/tracks-v1a1/mono.m3u8?token=9c0883cd409b60e104b703d81f5a5c5f2f76b196-26f519a50e5cef114ebd45f112be39ba-1694444175-1694433375
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 7 (T Sports Apps)
-http://15.1.1.34:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=c2df40426024c9c7a489a1f0a536c2e813dc4dc6-948b7823446746f4788ef6bd12c8565c-1694444205-1694433405
-
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",Live Sports Asia Cup 2023
-http://15.1.1.38:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=2ad922be054a9d7f20b3b0a77eea7673f37280e5-f861a5109884ac2e1f066c1505f91242-1694444060-1694433260
-
-
-
-#EXTINF:-1 ,Asia Cup 2023 Star Sports 1 H
-http://15.1.1.38:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=2ad922be054a9d7f20b3b0a77eea7673f37280e5-f861a5109884ac2e1f066c1505f91242-1694444060-1694433260
-
-
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",T SPORTS
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
-
-
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 7B (T Sports Apps)
 https://live.tsports.com/mobile_hls/tsports_live_3/auto.m3u8
-#EXTINF:-1 ,BANGLA TV
-http://bd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 ,ATN Music(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 ,ATN MUSIC
-http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 ,Bangla TV(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+
+
 #EXTINF:-1 ,Chanel S uk
 http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 ,DW(Jagobd)
@@ -49,6 +21,9 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://208.86.19.13:81/519.stream/index.m3u8
 #EXTINF:-1 ,News24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+
+
+
 #EXTINF:-1 ,Zee Bangla HD(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 #EXTINF:-1 ,Sony Aath(BD)
@@ -73,10 +48,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 ,Sony Max HD
 http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 group-title="JAGO BD IPTV" tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png",JAGO_NRB IPTV [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 group-title="JAGO BD IPTV" tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg",JAGO_ATN Music [BD]
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="IPTV-1" tvg-logo="https://i.postimg.cc/6qD2rXhp/Dubai-Sports-3.png",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="IPTV-1" tvg-logo="https://i.postimg.cc/pXTy40wZ/ATN-News.png",ATN News
@@ -101,16 +72,6 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png",Star Gold Romance(BD)
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
-#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png",Ten Sports PK(BD)
-https://ddy2.cdnhks.lol:443/ddy2/premium741/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 group-title="BD",Viaplay Sports 1(BD)
-https://webudit.cdnhks.lol/lb/premium451/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 group-title="BD",Sports TV 1(BD)
-https://webudit.cdnhks.lol/lb/premium49/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 group-title="BD",Sports TV 2(BD)
-https://webudit.cdnhks.lol/lb/premium74/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 group-title="BD",Sports TV 3(BD)
-https://webudit.cdnhks.lol/lb/premium454/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:-1 ,SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 ,TCT Kids
@@ -177,8 +138,6 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 ,Music India (576p) [Not 24/7]
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-#EXTINF:-1 ,Nambikkai TV (576p)
-https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 #EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE UK
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
 #EXTINF:-1 ,SKY SPORTS FOOTBALL UK
