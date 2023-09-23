@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg",T SPORTS
-https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
+http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8?token=8e8c76ca8f63027d6fd82eb163db09d63349603f-8f03c3a0d2cb61ccb0d8ece5a1567521-1695473610-1695462810
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 7B (T Sports Apps)
 https://live.tsports.com/mobile_hls/tsports_live_3/auto.m3u8
 
