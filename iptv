@@ -6,7 +6,7 @@ http://15.1.1.34:8282/select2/tracks-v1a1/mono.m3u8?token=1c1b2e2d7a47048ccb3223
 #EXTINF:-1 ,BD live
 http://15.1.1.34:8282/sony-six-hd/tracks-v1a1/mono.m3u8?token=2714a67fdf078a6418468331a32c6e009952bb89-ec5aeaa3351eef1d37fa0c434dfd5520-1696246071-1696235271
 #EXTINF:-1 ,T SPORTS.
-http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/130714.ts
+http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:-1 ,Shomoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
