@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,BD VS SL
-http://15.1.1.34:8282/1LIVE/tracks-v1a1/mono.m3u8?token=fa11835b13ce47e933174933ed294c0b847157b6-e481c1c94bda13c81bf4f607d1cae1bb-1696002600-1695991800
+#EXTINF:-1 ,BD live
+http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8?token=196c2fedecc1ea6e75545414273e5b323f469228-f1b29481110d213fe62c8420ae3dcaf9-1696245817-1696235017
 #EXTINF:-1 group-title="Sport",PTV SPORT
-http://175.107.244.52:4457/play/a08g/index.m3u8
-
+http://15.1.1.34:8282/select2/tracks-v1a1/mono.m3u8?token=1c1b2e2d7a47048ccb32237351bfe6011f5b8ba1-9375ab02382e8c55cc55723cd6e0460b-1696246049-1696235249
+#EXTINF:-1 ,BD live
+http://15.1.1.34:8282/sony-six-hd/tracks-v1a1/mono.m3u8?token=2714a67fdf078a6418468331a32c6e009952bb89-ec5aeaa3351eef1d37fa0c434dfd5520-1696246071-1696235271
+#EXTINF:-1 ,T SPORTS.
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/130714.ts
 #EXTINF:-1 ,Shomoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
