@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 ,Sky Sports Main Events
+http://181.233.124.38:80/christian/christian123/1847084.ts
+
+
+
+#EXTINF:-1 ,world cup selected HD
+http://172.17.50.112/live/fifa2022/index.m3u8
+#EXTINF:-1 ,world cup sleceted HD
+http://172.16.172.112/live/fifa2022/index.m3u8
+
+#EXTINF:-1 ,Sky Sports Main Events
+http://181.233.124.38:80/christian/christian123/1847084.ts
+
+#EXTINF:-1 ,PTV SPORTS HD
+http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
+
+#EXTINF:-1 ,Star Sports 2
+http://103.120.172.74:4200
+
+#EXTINF:-1 ,STAR SPORTS 2
+http://176.119.29.52/live.ts?channelId=298&deviceMac=00:1A:79:6E:26:8C
+
+#EXTINF:-1 ,STAR SPORTS 1
+http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1 ,Shomoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
