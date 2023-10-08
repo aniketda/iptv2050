@@ -1,5 +1,28 @@
 #EXTM3U
-#EXTINF:-1,World Cup 2023 T Sports
+#EXTINF:-1 ,ICC WORLD CUP FHD 1
+http://xtv.ooo:8080//live/50187198618/884815765/353949.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ICC World Cup 2023
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 ,ICC WORLD CUP FHD 2
+https://ed-b002.hstege.me/plyvivo/10nir0ciwem06is0dafi/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/cricket.png",Astro Cricket
+http://xtv.ooo:8080//live/50187198618/884815765/352083.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ia800809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png",Sky Sports Cricket HD
+http://xtv.ooo:8080//live/50187198618/884815765/346379.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sialtv.pk/wp-content/uploads/2014/02/ptvsportslive.jpg",PTV Sports
+http://xtv.ooo:8080//live/50187198618/884815765/26033.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://drcric.com/wp-content/uploads/2021/02/Willow-tv-live-cricket-Score.jpg",Willow HD
+http://xtv.ooo:8080//live/50187198618/884815765/167583.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jio4gvoiceapk.in/wp-content/uploads/2021/01/JioCricket1.png",Jio Crickrt HD
+http://opplex.tv:8080/live/paki/paki/206297.ts
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",Gazi TV (1)
+http://chanel.dekhaott.com/Gazi-TV/index.fmp4.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Rj48vSx/download.png",T sports (1)
+http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Rj48vSx/download.png",T sports (3)
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
+#EXTINF:-1 ,World Cup 2023 T Sports
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 ,TEN Sports
 http://livespecial.multistreamz.com:8081/minerva/tensports/playlist.m3u8
@@ -17,33 +40,12 @@ http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
 http://xtv.ooo:8080//live/50187198618/884815765/353949.ts
 #EXTINF:-1 ,Super Sports Golf
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=647870&extension=m3u8
-
 #EXTINF:-1 ,STAR SPORTS 1
 http://103.102.27.173/live/tvfeed1003/index.m3u8
 #EXTINF:-1 ,Sky Sports Main Events
 http://181.233.124.38:80/christian/christian123/1847084.ts
 
 
-
-#EXTINF:-1 ,world cup selected HD
-http://172.17.50.112/live/fifa2022/index.m3u8
-#EXTINF:-1 ,world cup sleceted HD
-http://172.16.172.112/live/fifa2022/index.m3u8
-
-#EXTINF:-1 ,Sky Sports Main Events
-http://181.233.124.38:80/christian/christian123/1847084.ts
-
-#EXTINF:-1 ,PTV SPORTS HD
-http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
-
-#EXTINF:-1 ,Star Sports 2
-http://103.120.172.74:4200
-
-#EXTINF:-1 ,STAR SPORTS 2
-http://176.119.29.52/live.ts?channelId=298&deviceMac=00:1A:79:6E:26:8C
-
-#EXTINF:-1 ,STAR SPORTS 1
-http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1 ,Shomoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
