@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,World Cup 2023 T Sports
+http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 ,ICC WORLD CUP FHD 1
 http://xtv.ooo:8080//live/50187198618/884815765/353949.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ICC World Cup 2023
