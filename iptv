@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF:-1 , WORLD CUP FHD
+http://103.180.112.66:8080/tsports/index.m3u8
+#EXTINF:-1 ,Star sports 1 hd
+http://103.141.2.38/hls/stersports1hd.m3u8
+#EXTINF:-1 ,PTV SPORTS HD
+http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
+
+#EXTINF:-1 ,WORLD CUP ATN
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 ,T Sports BD 
+http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MAT4
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Max Sport 3
+http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
+#EXTINF:-1 ,AD Sports1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 ,T Sports HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+
+#EXTINF:-1 ,ICC WoRLd cup 2023
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+#EXTINF:-1 ,ICC Would cup 2023 (2)
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1 ,Astro cricket
+https://epg.pw/stream/3a28c176ab50b9e6b6c008e23d84210b8fb3078543b34f07346add77512bb886.ts
+
+
+#EXTINF:-1 ,STAR SPORTS 1 (4K).
+http://humiptv.live:8080/live/689545/689545/98864.ts
+#EXTINF:-1 ,T SPORTS HD
+https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
+#EXTINF:-1 ,ICC would cup live (ABR)
+https://sportsleading.online/live/stream_e1_abr.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ICC World Cup 2023
 https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jio4gvoiceapk.in/wp-content/uploads/2021/01/JioCricket1.png",Jio Crickrt HD
