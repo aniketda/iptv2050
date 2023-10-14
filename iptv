@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,sony ten 1
+http://15.1.5.22:8082/ten1-hd/tracks-v1a1/mono.m3u8?token=b60d45f96e51e5f7185709cb0b4db8be1ef10c44-643e7a2e4a65b594cfa8e9f4cae0b02c-1697288091-1697277291
+#EXTINF:-1 ,sony ten 2
+http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8?token=5c9295763ede2322447c17d28fa60ac01213707b-e6bb014fce2bd2a09381249cf4ff589c-1697288230-1697277430
+#EXTINF:-1 ,Star Sports Select 1
+http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=aece74628487a1e6e0b824f675058c8759861bba-5f1cb5617ffbf84e95812d4303a4c717-1697288170-1697277370
 #EXTINF:-1 , WORLD CUP FHD
 http://103.180.112.66:8080/tsports/index.m3u8
 #EXTINF:-1 ,Star sports 1 hd
