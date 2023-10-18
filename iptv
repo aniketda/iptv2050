@@ -1,20 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,sony ten 1
-http://15.1.5.22:8082/ten1-hd/tracks-v1a1/mono.m3u8?token=b60d45f96e51e5f7185709cb0b4db8be1ef10c44-643e7a2e4a65b594cfa8e9f4cae0b02c-1697288091-1697277291
-#EXTINF:-1 ,sony ten 2
-http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8?token=5c9295763ede2322447c17d28fa60ac01213707b-e6bb014fce2bd2a09381249cf4ff589c-1697288230-1697277430
-#EXTINF:-1 ,Star Sports Select 1
-http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=aece74628487a1e6e0b824f675058c8759861bba-5f1cb5617ffbf84e95812d4303a4c717-1697288170-1697277370
-#EXTINF:-1 , WORLD CUP FHD
-http://103.180.112.66:8080/tsports/index.m3u8
-#EXTINF:-1 ,Star sports 1 hd
-http://103.141.2.38/hls/stersports1hd.m3u8
 #EXTINF:-1 ,PTV SPORTS HD
 http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
-
 #EXTINF:-1 ,WORLD CUP ATN
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 ,T Sports BD 
+#EXTINF:-1 ,T Sports BD
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MAT4
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
@@ -24,18 +13,12 @@ http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 ,T Sports HD
 https://live.tsports.com/live/tsports_live_720/index.m3u8
-
 #EXTINF:-1 ,ICC WoRLd cup 2023
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1 ,ICC Would cup 2023 (2)
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-
 #EXTINF:-1 ,Astro cricket
 https://epg.pw/stream/3a28c176ab50b9e6b6c008e23d84210b8fb3078543b34f07346add77512bb886.ts
-
-
-#EXTINF:-1 ,STAR SPORTS 1 (4K).
-http://humiptv.live:8080/live/689545/689545/98864.ts
 #EXTINF:-1 ,T SPORTS HD
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 #EXTINF:-1 ,ICC would cup live (ABR)
@@ -46,10 +29,6 @@ https://sportsleading.online/live/stream_e1.m3u8
 http://opplex.tv:8080/live/paki/paki/206297.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Rj48vSx/download.png",T sports (3)
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
-#EXTINF:-1 ,STAR SPORTS 1 (4K).
-http://humiptv.live:8080/live/689545/689545/98864.ts
-#EXTINF:-1 ,PTV SPORTS HD
-http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1 ,Star Sports 2
 http://103.120.172.74:4200
 #EXTINF:-1 ,STAR SPORTS 2
@@ -58,8 +37,6 @@ http://176.119.29.52/live.ts?channelId=298&deviceMac=00:1A:79:6E:26:8C
 http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1 ,STAR SPORTS 1
 http://103.102.27.173/live/tvfeed1003/index.m3u8
-#EXTINF:-1 ,Sky Sports Main Events
-http://181.233.124.38:80/christian/christian123/1847084.ts
 #EXTINF:-1 ,Shomoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
@@ -86,8 +63,6 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 ,ATN Music
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 ,Bangla TV(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 ,JagoNews24 Tv
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 ,ATN MUSIC
@@ -102,8 +77,6 @@ http://appcdn.jagobd.com:1933/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,Banglavision HD
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 ,Boishakhi TV Plus
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 ,SONY AATH
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 ,JALSHA MOVIE HD
@@ -224,8 +197,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 http://38gb.pro:80/live/4478355/94943550/127718.m3u8
 #EXTINF:-1 ,GULLI ARABI
 http://38gb.pro:80/live/4478355/94943550/143139.m3u8
-#EXTINF:-1 ,B4U MUSIC
-http://103.121.7.254:8000/play/a0hn/index.m3u8
 #EXTINF:-1 ,9 XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 ,BINDAS
@@ -302,8 +273,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-babyfirst-samsung
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="FASHION",FASHION TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="ANIMAL",INSIGHT TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="ANIMAL",INTROBULE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="ANIMAL",INWILD
@@ -340,8 +309,6 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
 #EXTINF:-1 group-title="MUSIC",SANGEET  BANGLA
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdbLwgmXvg5Wm2rQqJvuv1PwzwPkwvnhD3LJA3G2vfDzEffTAhHwA0yZtLv0nMvfzfzrBLj1tvC5Afbumd0&auth=4d67722628718a521735bf8c2deceac8c2176fbfbfa1d0e9e3ff4168274e8ac4
-#EXTINF:-1 ,t sports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 group-title="MUSIC",SANGEET MARATHI
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBdbLwgmXvg5Wm2rQqJvuvwHxuvu1Au1vtK5tmvO2wJnAtMvyAdjvmfjQt1zcq1rysK1sv00XvKCWEMruut0&auth=f174f4df51129547366e33f76c9adb5c7dbc2d406a48fd42d19c059563a9f3b4
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT",DD NATIONAL
