@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,world cup FHD
+https://sportsleading.online/live/stream_e3.m3u8
+
+#EXTINF:-1 ,world cup FHD
+https://sportsleading.online/live/stream_e1.m3u8
+
+#EXTINF:-1 ,world cup FHD
+https://sportsleading.online/live/stream_e2.m3u8
 #EXTINF:-1 ,PTV SPORTS HD
 http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1 ,WORLD CUP ATN
