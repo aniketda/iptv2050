@@ -1,10 +1,36 @@
 #EXTM3U
+#EXTINF:-1 ,GAZI TV
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Sports Hindi
+http://103.12.122.22:5000/play/a044/index.m3u8
+#EXTINF:-1 ,Astero cricket
+http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
 #EXTINF:-1 ,PTV sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 ,Star Sports
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 ,Star sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 ,Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 ,T Sports BD
+http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 ,TLT** Sports > 1
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 ,Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 ,Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 ,ICC TV Add free Channel
+https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
+#EXTINF:-1 ,Gazi TV 2
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
+#EXTINF:-1 ,Willow Extra TV
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+#EXTINF:-1 ,Hoster Live 1
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 ,PTV sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 ,Star Sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1 ,Star sports
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 ,Willow Cricket HD
@@ -27,8 +53,6 @@ http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b
 https://epg.pw/stream/3a28c176ab50b9e6b6c008e23d84210b8fb3078543b34f07346add77512bb886.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ICC World Cup 2023
 https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://jio4gvoiceapk.in/wp-content/uploads/2021/01/JioCricket1.png",Jio Crickrt HD
-http://opplex.tv:8080/live/paki/paki/206297.ts
 #EXTINF:-1 ,Star Sports 2
 http://103.120.172.74:4200
 #EXTINF:-1 ,STAR SPORTS 2
@@ -45,8 +69,6 @@ http://162.244.81.142:1935/live/livestream/chunklist_w1355945905.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 ,Ekusey TV 🇧🇩
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 ,Time TV
-http://appcdn.jagobd.com:1933/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY AATH
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 ,JALSHA MOVIE HD
@@ -89,8 +111,6 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.net
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://sudarshannews.in/images/logo.jpg",Sudarshan News
 https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://cnewsbharat.com/dist/img/cnews-logo.png",C News Bharat
-https://legitpro.co.in/hls10/cnews/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@1.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png",India Today
@@ -123,14 +143,10 @@ http://183.89.246.119:8881/play/a09a/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1  tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Fakt Marathi
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Faktmarathi/default/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/boogle-bollywood-black.png",Boogle Bollywood
-https://live.wmncdn.net/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/desi-tv-white.png",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/nwxCDxG.png",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 ,STARJALSHA
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155770&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 group-title="BD",B4U Movies IN (BD)
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="BD",MBC Bollywood(BD)
