@@ -1,64 +1,26 @@
 #EXTM3U
-#EXTINF:-1 ,GAZI TV
-http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star Sports Hindi
-http://103.12.122.22:5000/play/a044/index.m3u8
-#EXTINF:-1 ,Astero cricket
-http://103.175.242.10:8080/ASTRO_Cricket/index.m3u8
-#EXTINF:-1 ,PTV sports
-http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 ,Star Sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 ,Star sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 ,T Sports BD
-http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
-#EXTINF:-1 ,TLT** Sports > 1
-http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 ,STAR SPORTS 1
+http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
+#EXTINF:-1 ,STAR SPORTS 2
+http://176.119.29.52/live.ts?channelId=298&deviceMac=00:1A:79:6E:26:8C
+#EXTINF:-1 ,Star Sports 2
+http://103.120.172.74:4200
 #EXTINF:-1 ,Willow Cricket HD
 http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 ,Astro 🇲🇾 Cricket HD
 http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 ,ICC TV Add free Channel
-https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
-#EXTINF:-1 ,Gazi TV 2
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
-#EXTINF:-1 ,Willow Extra TV
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
-#EXTINF:-1 ,Hoster Live 1
-https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1 ,PTV sports
-http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 ,Star Sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 ,Star sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 ,Willow Cricket HD
-http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 ,Astro 🇲🇾 Cricket HD
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 ,ICC TV Add free Channel
-https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
-#EXTINF:-1 ,Gazi TV 2
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
-#EXTINF:-1 ,Willow Extra TV
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
-#EXTINF:-1 ,MAT4
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+
+
 #EXTINF:-1 ,Max Sport 3
 http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 #EXTINF:-1 ,AD Sports1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 ,Astro cricket
 https://epg.pw/stream/3a28c176ab50b9e6b6c008e23d84210b8fb3078543b34f07346add77512bb886.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ICC World Cup 2023
-https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1 ,Star Sports 2
-http://103.120.172.74:4200
-#EXTINF:-1 ,STAR SPORTS 2
-http://176.119.29.52/live.ts?channelId=298&deviceMac=00:1A:79:6E:26:8C
-#EXTINF:-1 ,STAR SPORTS 1
-http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
+
+
+
 #EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,Nandan TV
@@ -81,32 +43,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155776&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 ,ZEE BANGLA CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN BANGLA
-http://cdn01.palki.tv/live/ATNBangla-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kDmkexe.png",BIJOY TV
-http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HX8SSDA.png",BANGLAVISION
-http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/pTJSGtj.png",BOISHAKHI TV
-http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/nYRFnW5.png",CHANNEL I
-http://cdn01.palki.tv/live/Channeli-M/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/PK9Gm5g.png",Duronto TV
-http://cdn01.palki.tv/live/Duronto-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/tPZKfLr.png",Deepto TV HD
-http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/i8T9qQs.png",Ekattor TV HD
-http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Jo7wzmn.png",Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/yi5p51T.png",RTV HD
-http://cdn01.palki.tv/live/RTV-M/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58KCOl.jpg",CCN BANGLA
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imgpile.com/images/58KJbk.png",DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/J4JNrkH.png",Peace Tv Bangla
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kFqOMtx.png",Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,NANDAN Official
@@ -115,8 +55,6 @@ https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://static.indiatv.in/khabar-global/images/india-tv-in.png",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.newsnation.in/livetv-logo/newsnation-player-logo-640x360.jpg",News Nation
-https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_footer.png",Zee News
@@ -135,40 +73,24 @@ https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/bBGs_he_TxhFxncS9VvQpnrL6sxZO0y-uhzf_dkb5OULq-iiPMAOfRNkLcMOben0UWp-J-Asag=s68-c-k-c0x00ffffff-no-rj",Janata TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg",K News India
-https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://sudarshannews.in/images/logo.jpg",Sudarshan News
 https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@1.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC World
-http://ip2121.com:8081/live/bbc/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.epg.best/in/DDNational.in.png",DD National
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-49.png?w=112",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://iks.timesnownews.com/s/v1/img/logo/c_zoomlogo.png",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://static.epg.best/in/9XM.in.png",9xM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,#https://dai.google.com/linear/hls/event/n40NV2qQSrK55V5q8o_HCw/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/fd717be1-0914-44ed-bb10-827762c95647/2.m3u8
-#EXTINF:-1 group-title="SERVER 1",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png",Music India
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="Music",MTV
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png",9X Jalwa
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png",B4U Music
 http://183.89.246.119:8881/play/a08o/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://macan.network/img/zingtv.jpg",Zing
 http://183.89.246.119:8881/play/a09a/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png",9X Jhakaas
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1  tvg-logo="http://www.maiboli.tv/images/new/main-logo.png",Fakt Marathi
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Faktmarathi/default/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/desi-tv-white.png",Desi Channel
@@ -213,22 +135,16 @@ http://38gb.pro:80/live/4478355/94943550/127718.m3u8
 http://38gb.pro:80/live/4478355/94943550/143139.m3u8
 #EXTINF:-1 ,9 XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 ,BINDAS
-http://103.12.122.22:5000/play/a0h2/index.m3u8
 #EXTINF:-1 ,& Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:-1 ,STAR GOLD HD
-http://103.12.122.22:5000/play/a05j/index.m3u8
 #EXTINF:-1 ,ZEE ACTION
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 #EXTINF:-1 ,BOLLYWOOD CLASSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 ,BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 ,SONY BBC EARTH
-http://103.12.122.22:5000/play/a0gj/index.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,Star Gold
@@ -287,8 +203,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="ANIMAL",INTROBULE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="ANIMAL",INWILD
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="ANIMAL",TRAVEL
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/master.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIE",MOVIE SPHERE
