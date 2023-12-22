@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Dipto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1 ,INDEPENDENT TV
-http://103.109.56.116/live/skyfeed1012/index.m3u8
-#EXTINF:-1 ,JAMUNA TV
-http://103.109.56.116/live/skyfeed1021/index.m3u8
-#EXTINF:-1 ,EKATTOR TV
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:-1 ,COLORS BANGLA
-http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png",Maasranga TV(BD)
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushay TV(BDIX)
@@ -19,8 +11,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://208.86.19.13:81/519.stream/index.m3u8
 #EXTINF:-1 group-title="BD" tvg-logo="https://www.tbn24.com/public/website_logo.png",TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,POGO
-http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 ,Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 ,Peace TV ENG
@@ -59,8 +49,6 @@ http://95.111.193.211:8106/play/a00x/index.m3u8
 http://95.111.193.211:8106/play/a003/index.m3u8
 #EXTINF:-1 ,STAR MOVIES HD
 http://95.111.193.211:8106/play/a00o/index.m3u8
-#EXTINF:-1 ,STAR SPORTS S2 HD
-http://95.111.193.211:8106/play/a017/index.m3u8
 #EXTINF:-1 ,Sun Bangla
 http://95.111.193.211:8106/play/a00z/index.m3u8
 #EXTINF:-1 ,Travelxp
@@ -71,34 +59,18 @@ http://95.111.193.211:8106/play/a00e/index.m3u8
 http://95.111.193.211:8106/play/a00s/index.m3u8
 #EXTINF:-1 ,nick HD+- Rs 10
 http://95.111.193.211:8106/play/a00h/index.m3u8
-#EXTINF:-1 ,GTV
-http://103.141.2.37:25461/web/web/592
 #EXTINF:-1 ,DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 ,DIPTO TV
-http://103.141.2.37:25461/web/web/587
-#EXTINF:-1 ,SPORTS 18
-http://103.141.2.37:25461/web/web/588
-#EXTINF:-1 ,G tv
-http://103.141.2.37:25461/live/web/web/592.m3u8
 #EXTINF:-1 group-title="BDIX",14. Ntv HD
 http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
-#EXTINF:-1 group-title="BDIX",19. DESH TV
-http://galaxyiptv.pro:8080/asimbutt/000423/178396
-#EXTINF:-1 group-title="BDIX",21. Bangla tv HD
-http://galaxyiptv.pro:8080/asimbutt/000423/178405
 #EXTINF:-1 group-title="BDIX",34. Biswa-Bangla HD
 http://176.119.29.52/live.ts?channelId=90253&uid=5060&deviceMac=00:1A:79:73:9C:A1
-#EXTINF:-1 group-title="BDIX",38. ETV BANGLA
-http://galaxyiptv.pro:8080/asimbutt/000423/178418
 #EXTINF:-1 ,39. Atn News Bangla
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 group-title="BDIX",42. Peace-tv-Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1 ,Star Jalsha(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:-1 ,DIPTO TV
-http://103.141.2.37:25461/live/web/web/587.m3u8
 #EXTINF:-1 ,Colors Bangla HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 ,Channel Y
@@ -409,10 +381,6 @@ https://dai.google.com/linear/hls/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 11
 https://dai.google.com/linear/hls/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 12
-https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 14
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 15
 https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 #EXTINF:-1 group-title="World Cup" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png",World Cup 2023 Live Match 1
@@ -517,24 +485,14 @@ http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 http://45.11.139.43:8081/stream/kinomiks/hls/playlist.m3u8
 #EXTINF:-1 group-title="Микс",Viju TV1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Микс",Русский бестселлер
-http://94.230.240.12:80/rusbestseller/index.m3u8
 #EXTINF:-1 group-title="Микс",Fox
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 group-title="Микс",Fox HD
-https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8
 #EXTINF:-1 group-title="Микс",Fox Life
 http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Микс",Fox Life HD
 http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 group-title="Микс",Filmbox
-http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 group-title="Микс",Plan B HD
 http://31.148.6.4:10236/index.m3u8
-#EXTINF:-1 group-title="Микс",TV XXI
-https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
-#EXTINF:-1 group-title="Микс",FlixSnip
-https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
 #EXTINF:-1 group-title="Микс" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg",312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 group-title="Микс",312 Кино
@@ -543,8 +501,6 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://moobl.ru/hls/Blokbaster_hd.m3u8
 #EXTINF:-1 group-title="Микс",Kino24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="Микс",Видеокассета
-https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Микс",Viasat Kino
 http://91.210.251.166:4893/udp/239.0.3.4:4000
 #EXTINF:-1 group-title="Микс",Viasat Kino World
@@ -577,14 +533,10 @@ http://91.210.251.166:4895/udp/239.0.3.6:4000
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Женское",Русский роман HD
 http://46.151.151.245:10002/play/a0b3
-#EXTINF:-1 group-title="Отечественное",Дом кино
-https://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
 #EXTINF:-1 group-title="Отечественное",Viju TV1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Отечественное",Русский иллюзион
 https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Отечественное",Любимое кино
-https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
 #EXTINF:-1 group-title="Отечественное",Мосфильм. Золотая коллекция
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8
 #EXTINF:-1 group-title="Отечественное",Кино 1 International
@@ -593,44 +545,28 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Комедии",Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:-1 group-title="Комедии",Comedy Central
-http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 group-title="Комедии",Viasat Kino Comedy
 http://91.210.251.166:4896/udp/239.0.3.7:4000
 #EXTINF:-1 group-title="Сериалы",Viju+ Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Сериалы",НТВ-Сериал HD
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-#EXTINF:-1 group-title="Фантастика",FAN
-http://94.230.240.17:8080/fan/index.m3u8
-#EXTINF:-1 group-title="Национальное",Cinema HD
-https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
 #EXTINF:-1 group-title="Национальное",Hollywood HD
 http://stream01.vnet.am/ParamountChannel/mono.m3u8
-#EXTINF:-1 group-title="Национальное",Bollywood HD
-http://ucdn.beetv.kz/btv/live/hls/000001419.m3u8
 #EXTINF:-1 group-title="Национальное",Еврокино
 http://109.239.208.82:80/eurokino/index.m3u8
 #EXTINF:-1 group-title="Национальное",Индийское кино
 http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
-#EXTINF:-1 group-title="Национальное",Film.Ua Drama
-https://ucdn.beetv.kz/btv/live/hls/000003028.m3u8
 #EXTINF:-1 group-title="Страшное",Trash HD
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="Страшное",Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Страшное",НСТ
-https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
-#EXTINF:-1 group-title="Страшное",Шокирующее HD
-http://195.161.68.11:8006/playlist.m3u8
 #EXTINF:-1 group-title="Страшное",Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
 #EXTINF:-1 ,4Music [Geo-blocked]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits
 #EXTINF:-1 ,Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 ,Ahlulbayt TV (1080p) [Not 24/7]
-http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 ,Akaal Channel (396p) [Geo-blocked]
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 #EXTINF:-1 ,AlbUK TV (1080p) [Not 24/7]
@@ -663,8 +599,6 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/kerrang
 #EXTINF:-1 ,KISS TV [Geo-blocked]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss
-#EXTINF:-1 ,Latest TV [Not 24/7]
-https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
 #EXTINF:-1 ,Loveworld TV (1080p) [Not 24/7]
 https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
 #EXTINF:-1 ,Magna Vision (1080p)
@@ -709,8 +643,6 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 ,Al Ehsaan TV (720p)
 https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8
-#EXTINF:-1 ,aurLife HD (614p)
-http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 ,Dunya News (INT Feed) (720p) [Not 24/7]
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 ,Dunya News (INT Feed) (720p) [Not 24/7]
