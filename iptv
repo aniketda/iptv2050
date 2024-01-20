@@ -1,4 +1,21 @@
 #EXTM3U
+
+#EXTINF:-1 ,BPL 01
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st%3D1705742926%7Eexp%3D1705786126%7Eacl%3D%2F%2A%7Edata%3D2402%3A1f00%3A8001%3A15ca%3A%3A-WEB%7Ehmac%3D169c8ad27c50bd854217784d8c3bd1e24b960f8ce950fc4a3898ea7999768f15
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports T Sports
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports T Sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports Gazi TV
+http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports Star Sports 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports Star Sports 1
+http://103.132.181.118:82/play/a00a
+
+
 #EXTINF:-1 ,Dipto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png",Maasranga TV(BD)
