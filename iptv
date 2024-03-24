@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg",IPL 1
+http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/422
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg",IPL 2
+http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/421
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/ZhRX2gg/image.png",1
+http://watchindia.net:8880/live/68601/37511/1067.ts
+#EXTINF:-1 group-title="IPL2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",IPL 2024 T Sports
+http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="IPL2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",IPL 2024 T Sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 group-title="IPL2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",IPL 2024 Gazi TV
+http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="IPL2024" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg",IPL 2024 Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV National
+https://bongohub.pw/bioscope.php?cc=btv-hd
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV World
+https://bongohub.pw/bioscope.php?cc=btv-world
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV Sangsad
+https://bongohub.pw/bioscope.php?cc=sangsad-tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg",Gazi TV
+http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg",Jamuna TV
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/W5cP3KT/IMG-20240126-084224.png",Ekattor TV HD
