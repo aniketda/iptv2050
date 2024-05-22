@@ -541,7 +541,7 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 http://longstream-03.ajaah.com/PlayBoxTV/MusicIndia/playlist.m3u8
 #EXTINF:-1 ,SONY MAX HD
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,SONY HD
+#EXTINF:-1 group-title="English Movies" ,RCM
 https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1 ,MBC Bollywood HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
